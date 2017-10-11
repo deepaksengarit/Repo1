@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="6" failed="0" total="6" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="VirtueMart" duration-ms="11156" started-at="2017-10-11T07:14:05Z" finished-at="2017-10-11T07:14:16Z">
+    <groups>
+    </groups>
+    <test name="SiteTest" duration-ms="11156" started-at="2017-10-11T07:14:05Z" finished-at="2017-10-11T07:14:16Z">
+      <class name="Test_Cases.User_Login">
+        <test-method status="FAIL" signature="setUP()[pri:0, instance:Test_Cases.User_Login@7e0babb1]" name="setUP" is-config="true" duration-ms="0" started-at="2017-10-11T12:44:05Z" finished-at="2017-10-11T12:44:05Z">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[Failed to decode response from marionette
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'Deepak', ip: '192.168.100.148', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20161031133903, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, browserVersion=47.0.2, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=Windows_NT, device=desktop}]
+Session ID: 88ea600f-14e3-45ee-ba24-df2893469c9d]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'Deepak', ip: '192.168.100.148', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20161031133903, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, browserVersion=47.0.2, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=Windows_NT, device=desktop}]
+Session ID: 88ea600f-14e3-45ee-ba24-df2893469c9d
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:127)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:93)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:42)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:322)
+	at Test_Cases.User_Login.setUP(User_Login.java:37)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:641)
+	at org.testng.TestRunner.run(TestRunner.java:609)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="SKIP" signature="onHomePage()[pri:0, instance:Test_Cases.User_Login@7e0babb1]" name="onHomePage" duration-ms="1" started-at="2017-10-11T12:44:16Z" finished-at="2017-10-11T12:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onHomePage -->
+        <test-method status="SKIP" signature="select_Categories()[pri:0, instance:Test_Cases.User_Login@7e0babb1]" name="select_Categories" duration-ms="0" started-at="2017-10-11T12:44:16Z" finished-at="2017-10-11T12:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_Categories -->
+        <test-method status="SKIP" signature="SelectProductAndAddToCart()[pri:0, instance:Test_Cases.User_Login@7e0babb1]" name="SelectProductAndAddToCart" duration-ms="0" started-at="2017-10-11T12:44:16Z" finished-at="2017-10-11T12:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectProductAndAddToCart -->
+        <test-method status="SKIP" signature="SelectedProductOverview()[pri:0, instance:Test_Cases.User_Login@7e0babb1]" name="SelectedProductOverview" duration-ms="1" started-at="2017-10-11T12:44:16Z" finished-at="2017-10-11T12:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectedProductOverview -->
+        <test-method status="SKIP" signature="cart_OverView()[pri:0, instance:Test_Cases.User_Login@7e0babb1]" name="cart_OverView" duration-ms="0" started-at="2017-10-11T12:44:16Z" finished-at="2017-10-11T12:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart_OverView -->
+        <test-method status="SKIP" signature="order_Confirmation_Success()[pri:0, instance:Test_Cases.User_Login@7e0babb1]" name="order_Confirmation_Success" duration-ms="0" started-at="2017-10-11T12:44:16Z" finished-at="2017-10-11T12:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order_Confirmation_Success -->
+        <test-method status="FAIL" signature="closeUP()[pri:0, instance:Test_Cases.User_Login@7e0babb1]" name="closeUP" is-config="true" duration-ms="0" started-at="2017-10-11T12:44:16Z" finished-at="2017-10-11T12:44:16Z">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[Tried to run command without establishing a connection
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'Deepak', ip: '192.168.100.148', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20161031133903, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, browserVersion=47.0.2, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=Windows_NT, device=desktop}]
+Session ID: 88ea600f-14e3-45ee-ba24-df2893469c9d]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'Deepak', ip: '192.168.100.148', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20161031133903, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, browserVersion=47.0.2, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=Windows_NT, device=desktop}]
+Session ID: 88ea600f-14e3-45ee-ba24-df2893469c9d
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:127)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:93)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:42)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:658)
+	at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:487)
+	at factory.BrowserFactory.tearDown(BrowserFactory.java:43)
+	at Test_Cases.User_Login.closeUP(User_Login.java:97)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.TestRunner.afterRun(TestRunner.java:1021)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeUP -->
+      </class> <!-- Test_Cases.User_Login -->
+    </test> <!-- SiteTest -->
+  </suite> <!-- VirtueMart -->
+</testng-results>

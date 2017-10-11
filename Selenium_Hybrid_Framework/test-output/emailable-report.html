@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>TestNG:  Unit Test</title>
+<style type="text/css">
+table caption,table.info_table,table.result,table.passed,table.failed {margin-bottom:10px;border:1px solid #000099;border-collapse:collapse;empty-cells:show;}
+table.info_table td,table.info_table th,table.result td,table.result th,table.passed td,table.passed th,table.failed td,table.failed th {
+border:1px solid #000099;padding:.25em .5em .25em .5em
+}
+table.result th {vertical-align:bottom}
+tr.param th {padding-left:1em;padding-right:1em}
+tr.param td {padding-left:.5em;padding-right:2em}
+td.numi,th.numi,td.numi_attn {
+text-align:right
+}
+tr.total td {font-weight:bold}
+table caption {
+text-align:center;font-weight:bold;
+}
+table.passed tr.stripe td,table tr.passedodd td {background-color: #00AA00;}
+table.passed td,table tr.passedeven td {background-color: #33FF33;}
+table.passed tr.stripe td,table tr.skippedodd td {background-color: #cccccc;}
+table.passed td,table tr.skippedodd td {background-color: #dddddd;}
+table.failed tr.stripe td,table tr.failedodd td,table.result td.numi_attn {background-color: #FF3333;}
+table.failed td,table tr.failedeven td,table.result tr.stripe td.numi_attn {background-color: #DD0000;}
+tr.stripe td,tr.stripe th {background-color: #E6EBF9;}
+p.totop {font-size:85%;text-align:center;border-bottom:2px black solid}
+div.shootout {padding:2em;border:3px #4854A8 solid}
+</style>
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr><th>Test</th><th class="numi">Methods<br/>Passed</th><th class="numi">Scenarios<br/>Passed</th><th class="numi"># skipped</th><th class="numi"># failed</th><th class="numi">Total<br/>Time</th><th class="numi">Included<br/>Groups</th><th class="numi">Excluded<br/>Groups</th></tr>
+<tr><td style="text-align:left;padding-right:2em">SiteTest</td><td class="numi">0</td><td class="numi">0</td><td class="numi_attn">6</td><td class="numi">0</td><td class="numi">11.2 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+</table>
+<table cellspacing="0" cellpadding="0" class="passed" id="summary">
+<tr><th>Class</th><th>Method</th><th># of<br/>Scenarios</th><th>Start</th><th>Time<br/>(ms)</th></tr>
+<tr><th colspan="4">SiteTest &#8212; failed (configuration methods)</th></tr>
+<tr class="failedodd"><td rowspan="2">Test_Cases.User_Login</td><td><a href="#m1"><b>setUP</b>  </a></td><td class="numi">1</td><td>1507706045280</td><td class="numi">0</td></tr><tr class="failedodd"><td><a href="#m2"><b>closeUP</b>  </a></td><td class="numi">1</td><td>1507706056422</td><td class="numi">0</td></tr>
+<tr><th colspan="4">SiteTest &#8212; skipped</th></tr>
+<tr class="skippedodd"><td rowspan="6">Test_Cases.User_Login</td><td><a href="#m3"><b>onHomePage</b>  </a></td><td class="numi">1</td><td>1507706056416</td><td class="numi">1</td></tr><tr class="skippedodd"><td><a href="#m4"><b>select_Categories</b>  </a></td><td class="numi">1</td><td>1507706056417</td><td class="numi">0</td></tr><tr class="skippedodd"><td><a href="#m5"><b>SelectProductAndAddToCart</b>  </a></td><td class="numi">1</td><td>1507706056418</td><td class="numi">0</td></tr><tr class="skippedodd"><td><a href="#m6"><b>SelectedProductOverview</b>  </a></td><td class="numi">1</td><td>1507706056418</td><td class="numi">1</td></tr><tr class="skippedodd"><td><a href="#m7"><b>cart_OverView</b>  </a></td><td class="numi">1</td><td>1507706056419</td><td class="numi">0</td></tr><tr class="skippedodd"><td><a href="#m8"><b>order_Confirmation_Success</b>  </a></td><td class="numi">1</td><td>1507706056420</td><td class="numi">0</td></tr>
+</table>
+<h1>SiteTest</h1>
+<h2 id="m1">Test_Cases.User_Login:closeUP</h2>
+<div style="padding-left:3em">
+<p>Tried to run command without establishing a connection
+Build info: version: &apos;3.0.1&apos;, revision: &apos;1969d75&apos;, time: &apos;2016-10-18 09:49:13 -0700&apos;
+System info: host: &apos;Deepak&apos;, ip: &apos;192.168.100.148&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_60&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20161031133903, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, browserVersion=47.0.2, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=Windows_NT, device=desktop}]
+Session ID: 88ea600f-14e3-45ee-ba24-df2893469c9d</p>
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+<br/>at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+<br/>at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+<br/>at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+<br/>at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:127)
+<br/>at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:93)
+<br/>at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:42)
+<br/>at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+<br/>at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:658)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:487)
+<br/>at factory.BrowserFactory.tearDown(BrowserFactory.java:43)
+<br/>at Test_Cases.User_Login.closeUP(User_Login.java:97)
+<br/>19 lines not shown
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m2">Test_Cases.User_Login:setUP</h2>
+<div style="padding-left:3em">
+<p>Failed to decode response from marionette
+Build info: version: &apos;3.0.1&apos;, revision: &apos;1969d75&apos;, time: &apos;2016-10-18 09:49:13 -0700&apos;
+System info: host: &apos;Deepak&apos;, ip: &apos;192.168.100.148&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_60&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20161031133903, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, browserVersion=47.0.2, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=Windows_NT, device=desktop}]
+Session ID: 88ea600f-14e3-45ee-ba24-df2893469c9d</p>
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+<br/>at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+<br/>at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+<br/>at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+<br/>at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:127)
+<br/>at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:93)
+<br/>at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:42)
+<br/>at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)
+<br/>at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:322)
+<br/>at Test_Cases.User_Login.setUP(User_Login.java:37)
+<br/>19 lines not shown
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m3">Test_Cases.User_Login:cart_OverView</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m4">Test_Cases.User_Login:select_Categories</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m5">Test_Cases.User_Login:onHomePage</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m6">Test_Cases.User_Login:SelectProductAndAddToCart</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m7">Test_Cases.User_Login:SelectedProductOverview</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m8">Test_Cases.User_Login:order_Confirmation_Success</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+</body></html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [VirtueMart]" parallel="tests">
+  <test name="SiteTest">
+    <classes>
+      <class name="Test_Cases.User_Login"/>
+    </classes>
+  </test> <!-- SiteTest -->
+  <test name="SiteTest(failed)" parallel="tests">
+    <classes>
+      <class name="Test_Cases.User_Login">
+        <methods>
+          <include name="select_Categories"/>
+          <include name="onHomePage"/>
+          <include name="closeUP"/>
+          <include name="SelectProductAndAddToCart"/>
+          <include name="cart_OverView"/>
+          <include name="setUP"/>
+          <include name="SelectedProductOverview"/>
+          <include name="order_Confirmation_Success"/>
+        </methods>
+      </class> <!-- Test_Cases.User_Login -->
+    </classes>
+  </test> <!-- SiteTest(failed) -->
+</suite> <!-- Failed suite [VirtueMart] -->

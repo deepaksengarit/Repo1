@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-VirtueMart">
+              <span class="suite-name border-skipped">VirtueMart</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-VirtueMart">
+                    <span>C:\Users\Deepak\Desktop\Selenium_Hybrid_Framework\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-VirtueMart">
+                    <span class="test-stats">2 tests</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-VirtueMart">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-VirtueMart">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-VirtueMart">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-VirtueMart">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-VirtueMart">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">6 methods,  6 skipped,  </span>
+                  </li>
+                  <li>
+                    <span class="method-list-title skipped">Skipped methods</span>
+                    <span class="show-or-hide-methods skipped">
+                      <a href="#" panel-name="suite-VirtueMart" class="hide-methods skipped suite-VirtueMart"> (hide)</a> <!-- hide-methods skipped suite-VirtueMart -->
+                      <a href="#" panel-name="suite-VirtueMart" class="show-methods skipped suite-VirtueMart"> (show)</a> <!-- show-methods skipped suite-VirtueMart -->
+                    </span>
+                    <div class="method-list-content skipped suite-VirtueMart">
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-VirtueMart" title="Test_Cases.User_Login" hash-for-method="SelectProductAndAddToCart">SelectProductAndAddToCart</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-VirtueMart" title="Test_Cases.User_Login" hash-for-method="SelectedProductOverview">SelectedProductOverview</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-VirtueMart" title="Test_Cases.User_Login" hash-for-method="cart_OverView">cart_OverView</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-VirtueMart" title="Test_Cases.User_Login" hash-for-method="onHomePage">onHomePage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-VirtueMart" title="Test_Cases.User_Login" hash-for-method="order_Confirmation_Success">order_Confirmation_Success</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-VirtueMart" title="Test_Cases.User_Login" hash-for-method="select_Categories">select_Categories</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content skipped suite-VirtueMart -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-VirtueMart" class="panel VirtueMart">
+          <div class="suite-VirtueMart-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">Test_Cases.User_Login</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="SelectProductAndAddToCart">
+                  </a> <!-- SelectProductAndAddToCart -->
+                  <span class="method-name">SelectProductAndAddToCart</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="SelectedProductOverview">
+                  </a> <!-- SelectedProductOverview -->
+                  <span class="method-name">SelectedProductOverview</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="cart_OverView">
+                  </a> <!-- cart_OverView -->
+                  <span class="method-name">cart_OverView</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="onHomePage">
+                  </a> <!-- onHomePage -->
+                  <span class="method-name">onHomePage</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="order_Confirmation_Success">
+                  </a> <!-- order_Confirmation_Success -->
+                  <span class="method-name">order_Confirmation_Success</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="select_Categories">
+                  </a> <!-- select_Categories -->
+                  <span class="method-name">select_Categories</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-VirtueMart-class-skipped -->
+        </div> <!-- panel VirtueMart -->
+        <div panel-name="test-xml-VirtueMart" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\Deepak\Desktop\Selenium_Hybrid_Framework\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot; name=&quot;VirtueMart&quot; parallel=&quot;tests&quot;&gt;
+  &lt;test name=&quot;SiteTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;Test_Cases.User_Login&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- SiteTest --&gt;
+  &lt;test name=&quot;SiteTest(failed)&quot; parallel=&quot;tests&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;Test_Cases.User_Login&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;select_Categories&quot;/&gt;
+          &lt;include name=&quot;onHomePage&quot;/&gt;
+          &lt;include name=&quot;closeUP&quot;/&gt;
+          &lt;include name=&quot;SelectProductAndAddToCart&quot;/&gt;
+          &lt;include name=&quot;cart_OverView&quot;/&gt;
+          &lt;include name=&quot;setUP&quot;/&gt;
+          &lt;include name=&quot;SelectedProductOverview&quot;/&gt;
+          &lt;include name=&quot;order_Confirmation_Success&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- Test_Cases.User_Login --&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- SiteTest(failed) --&gt;
+&lt;/suite&gt; &lt;!-- VirtueMart --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-VirtueMart" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for VirtueMart</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">SiteTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">SiteTest(failed) (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-VirtueMart" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for VirtueMart</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-VirtueMart" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for VirtueMart</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_VirtueMart');
+function tableData_VirtueMart() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(6);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'onHomePage')
+data.setCell(0, 2, 'Test_Cases.User_Login')
+data.setCell(0, 3, 1);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'SelectProductAndAddToCart')
+data.setCell(1, 2, 'Test_Cases.User_Login')
+data.setCell(1, 3, 0);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'cart_OverView')
+data.setCell(2, 2, 'Test_Cases.User_Login')
+data.setCell(2, 3, 0);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'SelectedProductOverview')
+data.setCell(3, 2, 'Test_Cases.User_Login')
+data.setCell(3, 3, 0);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'select_Categories')
+data.setCell(4, 2, 'Test_Cases.User_Login')
+data.setCell(4, 3, 0);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'order_Confirmation_Success')
+data.setCell(5, 2, 'Test_Cases.User_Login')
+data.setCell(5, 3, 0);
+window.suiteTableData['VirtueMart']= { tableData: data, tableDiv: 'times-div-VirtueMart'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 1 ms</span>
+              <div id="times-div-VirtueMart">
+              </div> <!-- times-div-VirtueMart -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-VirtueMart" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for VirtueMart</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-VirtueMart" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-VirtueMart" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">Test_Cases.User_Login</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">setUP</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">onHomePage</span>
+                <span class="method-start">335 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">SelectProductAndAddToCart</span>
+                <span class="method-start">336 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">select_Categories</span>
+                <span class="method-start">336 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">SelectedProductOverview</span>
+                <span class="method-start">337 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">cart_OverView</span>
+                <span class="method-start">337 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">order_Confirmation_Success</span>
+                <span class="method-start">337 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">closeUP</span>
+                <span class="method-start">338 ms</span>
+              </div> <!-- configuration-test after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

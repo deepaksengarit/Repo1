@@ -1,0 +1,12 @@
+factory\BrowserFactory.class
+Test_Cases\User_Login.class
+Utility\Helper.class
+Data_Provider\ConfigDataProvider.class
+factory\ReturnObjectsDataProvider.class
+Pages\Cart.class
+Pages\OrderConfirmationSuccess.class
+Pages\SelectProductAddToCart.class
+Pages\Home_Page.class
+Data_Provider\ExcelDataProvider.class
+Pages\Category_Page.class
+Pages\Selected_Product_View.class

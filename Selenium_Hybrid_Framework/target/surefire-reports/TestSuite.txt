@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 2, Errors: 0, Skipped: 6, Time elapsed: 1.384 sec <<< FAILURE! - in TestSuite
+setUP(Test_Cases.User_Login)  Time elapsed: 0.657 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases
+	at Test_Cases.User_Login.setUP(User_Login.java:36)
+
+closeUP(Test_Cases.User_Login)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Test_Cases.User_Login.closeUP(User_Login.java:97)
+

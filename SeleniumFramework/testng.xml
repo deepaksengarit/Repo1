@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="ROCHE LOGIN">
+  
+<test name="LoginTest">
+    <classes>
+        <class name="com.testcases.RocheLogin" ></class>  
+    </classes>
+</test>
+
+<test name="Knowledgebase Test">
+    <classes>
+        <class name="com.testcases.Knowledgebase" ></class>  
+    </classes>
+</test>
+
+<test name="Badges Test">
+    <classes>
+        <class name="com.testcases.Badges" ></class>  
+    </classes>
+</test>
+
+<test name="Premium Test">
+    <classes>
+        <class name="com.testcases.Premium" ></class>  
+    </classes>
+</test>
+<test name="Score Test">
+    <classes>
+        <class name="com.testcases.Score" ></class>  
+    </classes>
+</test>
+
+<test name="News Test">
+    <classes>
+        <class name="com.testcases.News" ></class>  
+    </classes>
+</test>
+
+<test name="Settings Test">
+    <classes>
+        <class name="com.testcases.Settings" ></class>  
+    </classes>
+</test>
+
+<test name="Logout Test">
+    <classes>
+        <class name="com.testcases.RocheLogout" ></class>  
+    </classes>
+</test>
+</suite>

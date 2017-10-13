@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.testcases.Settings">
+        <methods>
+          <include name="test_Support"/>
+          <include name="init"/>
+          <include name="test_Feedback"/>
+          <include name="test_Settings"/>
+        </methods>
+      </class> <!-- com.testcases.Settings -->
+      <class name="com.testcases.Score">
+        <methods>
+          <include name="test_Statistik"/>
+          <include name="test_Score"/>
+          <include name="test_Rangliste"/>
+        </methods>
+      </class> <!-- com.testcases.Score -->
+      <class name="com.testcases.Knowledgebase">
+        <methods>
+          <include name="test_Login"/>
+          <include name="After_learn_Lesson"/>
+          <include name="Click_Lesson_Link"/>
+        </methods>
+      </class> <!-- com.testcases.Knowledgebase -->
+      <class name="com.testcases.RocheLogin">
+        <methods>
+          <include name="test_Login"/>
+        </methods>
+      </class> <!-- com.testcases.RocheLogin -->
+      <class name="com.testcases.Badges">
+        <methods>
+          <include name="test_kbBadges"/>
+          <include name="test_QuizBadges"/>
+          <include name="test_Badges"/>
+          <include name="test_SonderBadges"/>
+          <include name="test_VersteckteBadges"/>
+        </methods>
+      </class> <!-- com.testcases.Badges -->
+      <class name="com.testcases.RocheLogout">
+        <methods>
+          <include name="test_Logout"/>
+        </methods>
+      </class> <!-- com.testcases.RocheLogout -->
+      <class name="com.testcases.News">
+        <methods>
+          <include name="test_News"/>
+        </methods>
+      </class> <!-- com.testcases.News -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

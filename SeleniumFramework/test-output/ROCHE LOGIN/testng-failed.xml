@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ROCHE LOGIN]">
+  <test name="LoginTest(failed)">
+    <classes>
+      <class name="com.testcases.RocheLogin">
+        <methods>
+          <include name="test_Login"/>
+        </methods>
+      </class> <!-- com.testcases.RocheLogin -->
+      <class name="com.testcases.RocheLogout">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.testcases.RocheLogout -->
+    </classes>
+  </test> <!-- LoginTest(failed) -->
+  <test name="Knowledgebase Test(failed)">
+    <classes>
+      <class name="com.testcases.Knowledgebase">
+        <methods>
+          <include name="test_Login"/>
+          <include name="After_learn_Lesson"/>
+          <include name="Click_Lesson_Link"/>
+        </methods>
+      </class> <!-- com.testcases.Knowledgebase -->
+      <class name="com.testcases.RocheLogout">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.testcases.RocheLogout -->
+    </classes>
+  </test> <!-- Knowledgebase Test(failed) -->
+  <test name="Badges Test(failed)">
+    <classes>
+      <class name="com.testcases.Badges">
+        <methods>
+          <include name="test_kbBadges"/>
+          <include name="test_QuizBadges"/>
+          <include name="test_Badges"/>
+          <include name="test_SonderBadges"/>
+          <include name="test_VersteckteBadges"/>
+        </methods>
+      </class> <!-- com.testcases.Badges -->
+      <class name="com.testcases.RocheLogout">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.testcases.RocheLogout -->
+    </classes>
+  </test> <!-- Badges Test(failed) -->
+  <test name="Score Test(failed)">
+    <classes>
+      <class name="com.testcases.Score">
+        <methods>
+          <include name="test_Statistik"/>
+          <include name="test_Score"/>
+          <include name="test_Rangliste"/>
+        </methods>
+      </class> <!-- com.testcases.Score -->
+      <class name="com.testcases.RocheLogout">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.testcases.RocheLogout -->
+    </classes>
+  </test> <!-- Score Test(failed) -->
+  <test name="News Test(failed)">
+    <classes>
+      <class name="com.testcases.News">
+        <methods>
+          <include name="test_News"/>
+        </methods>
+      </class> <!-- com.testcases.News -->
+      <class name="com.testcases.RocheLogout">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.testcases.RocheLogout -->
+    </classes>
+  </test> <!-- News Test(failed) -->
+  <test name="Settings Test(failed)">
+    <classes>
+      <class name="com.testcases.Settings">
+        <methods>
+          <include name="test_Support"/>
+          <include name="test_Feedback"/>
+          <include name="test_Settings"/>
+        </methods>
+      </class> <!-- com.testcases.Settings -->
+      <class name="com.testcases.RocheLogout">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.testcases.RocheLogout -->
+    </classes>
+  </test> <!-- Settings Test(failed) -->
+  <test name="Logout Test(failed)">
+    <classes>
+      <class name="com.testcases.RocheLogout">
+        <methods>
+          <include name="init"/>
+          <include name="test_Logout"/>
+        </methods>
+      </class> <!-- com.testcases.RocheLogout -->
+    </classes>
+  </test> <!-- Logout Test(failed) -->
+</suite> <!-- Failed suite [ROCHE LOGIN] -->

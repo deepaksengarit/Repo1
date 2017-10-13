@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="17" failed="0" total="17" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Loading config properties file]]>
+    </line>
+    <line>
+      <![CDATA[New driver instantiated]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23" started-at="2016-12-21T07:01:31Z" finished-at="2016-12-21T07:01:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23" started-at="2016-12-21T07:01:31Z" finished-at="2016-12-21T07:01:31Z">
+      <class name="com.testcases.Score">
+        <test-method status="SKIP" signature="test_Score()[pri:0, instance:com.testcases.Score@6683c31c]" name="test_Score" duration-ms="0" started-at="2016-12-21T08:01:31Z" finished-at="2016-12-21T08:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Score -->
+        <test-method status="SKIP" signature="test_Rangliste()[pri:0, instance:com.testcases.Score@6683c31c]" name="test_Rangliste" duration-ms="1" started-at="2016-12-21T08:01:31Z" finished-at="2016-12-21T08:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Rangliste -->
+        <test-method status="SKIP" signature="test_Statistik()[pri:0, instance:com.testcases.Score@6683c31c]" name="test_Statistik" duration-ms="0" started-at="2016-12-21T08:01:31Z" finished-at="2016-12-21T08:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Statistik -->
+      </class> <!-- com.testcases.Score -->
+      <class name="com.testcases.Badges">
+        <test-method status="SKIP" signature="test_Badges()[pri:0, instance:com.testcases.Badges@563cd194]" name="test_Badges" duration-ms="0" started-at="2016-12-21T08:01:31Z" finished-at="2016-12-21T08:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Badges -->
+        <test-method status="SKIP" signature="test_kbBadges()[pri:0, instance:com.testcases.Badges@563cd194]" name="test_kbBadges" duration-ms="1" started-at="2016-12-21T08:01:31Z" finished-at="2016-12-21T08:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_kbBadges -->
+        <test-method status="SKIP" signature="test_QuizBadges()[pri:0, instance:com.testcases.Badges@563cd194]" name="test_QuizBadges" duration-ms="0" started-at="2016-12-21T08:01:31Z" finished-at="2016-12-21T08:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_QuizBadges -->
+        <test-method status="SKIP" signature="test_SonderBadges()[pri:0, instance:com.testcases.Badges@563cd194]" name="test_SonderBadges" duration-ms="1" started-at="2016-12-21T08:01:31Z" finished-at="2016-12-21T08:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_SonderBadges -->
+        <test-method status="SKIP" signature="test_VersteckteBadges()[pri:0, instance:com.testcases.Badges@563cd194]" name="test_VersteckteBadges" duration-ms="0" started-at="2016-12-21T08:01:31Z" finished-at="2016-12-21T08:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_VersteckteBadges -->
+      </class> <!-- com.testcases.Badges -->
+      <class name="com.testcases.Settings">
+        <test-method status="FAIL" signature="init()[pri:0, instance:com.testcases.Settings@4a79d135]" name="init" is-config="true" duration-ms="0" started-at="2016-12-21T08:01:20Z" finished-at="2016-12-21T08:01:20Z">
+          <exception class="org.openqa.selenium.remote.UnreachableBrowserException">
+            <message>
+              <![CDATA[Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'Deepak-PC', ip: '192.168.100.148', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Driver info: driver.version: ChromeDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'Deepak-PC', ip: '192.168.100.148', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Driver info: driver.version: ChromeDriver
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:593)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:139)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:171)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:160)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
+	at com.core.TestCore.setDriver(TestCore.java:59)
+	at com.core.TestCore.init(TestCore.java:111)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:277)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:207)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:178)
+Caused by: org.openqa.selenium.WebDriverException: java.net.SocketException: Connection reset
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'Deepak-PC', ip: '192.168.100.148', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Driver info: driver.version: ChromeDriver
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:75)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:572)
+	... 26 more
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:270)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:161)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:153)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:254)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:72)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.openqa.selenium.remote.internal.ApacheHttpClient.fallBackExecute(ApacheHttpClient.java:126)
+	at org.openqa.selenium.remote.internal.ApacheHttpClient.execute(ApacheHttpClient.java:72)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:133)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:66)
+	... 27 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.remote.UnreachableBrowserException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Loading config properties file]]>
+            </line>
+            <line>
+              <![CDATA[New driver instantiated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="SKIP" signature="test_Settings()[pri:0, instance:com.testcases.Settings@4a79d135]" name="test_Settings" duration-ms="0" started-at="2016-12-21T08:01:31Z" finished-at="2016-12-21T08:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Settings -->
+        <test-method status="SKIP" signature="test_Feedback()[pri:0, instance:com.testcases.Settings@4a79d135]" name="test_Feedback" duration-ms="0" started-at="2016-12-21T08:01:31Z" finished-at="2016-12-21T08:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Feedback -->
+        <test-method status="SKIP" signature="test_Support()[pri:0, instance:com.testcases.Settings@4a79d135]" name="test_Support" duration-ms="0" started-at="2016-12-21T08:01:31Z" finished-at="2016-12-21T08:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Support -->
+        <test-method status="SKIP" signature="suitClose()[pri:0, instance:com.testcases.Settings@4a79d135]" name="suitClose" is-config="true" duration-ms="0" started-at="2016-12-21T08:01:31Z" finished-at="2016-12-21T08:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suitClose -->
+      </class> <!-- com.testcases.Settings -->
+      <class name="com.testcases.RocheLogin">
+        <test-method status="SKIP" signature="test_Login()[pri:0, instance:com.testcases.RocheLogin@27823847]" name="test_Login" duration-ms="1" started-at="2016-12-21T08:01:31Z" finished-at="2016-12-21T08:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Login -->
+      </class> <!-- com.testcases.RocheLogin -->
+      <class name="com.testcases.Knowledgebase">
+        <test-method status="SKIP" signature="test_Login()[pri:0, instance:com.testcases.Knowledgebase@547e97d8]" name="test_Login" duration-ms="0" started-at="2016-12-21T08:01:31Z" finished-at="2016-12-21T08:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Login -->
+        <test-method status="SKIP" signature="After_learn_Lesson()[pri:0, instance:com.testcases.Knowledgebase@547e97d8]" name="After_learn_Lesson" duration-ms="1" started-at="2016-12-21T08:01:31Z" finished-at="2016-12-21T08:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After_learn_Lesson -->
+        <test-method status="SKIP" signature="Click_Lesson_Link()[pri:0, instance:com.testcases.Knowledgebase@547e97d8]" name="Click_Lesson_Link" duration-ms="0" started-at="2016-12-21T08:01:31Z" finished-at="2016-12-21T08:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_Lesson_Link -->
+      </class> <!-- com.testcases.Knowledgebase -->
+      <class name="com.testcases.News">
+        <test-method status="SKIP" signature="test_News()[pri:0, instance:com.testcases.News@852730b]" name="test_News" duration-ms="0" started-at="2016-12-21T08:01:31Z" finished-at="2016-12-21T08:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_News -->
+      </class> <!-- com.testcases.News -->
+      <class name="com.testcases.RocheLogout">
+        <test-method status="SKIP" signature="test_Logout()[pri:0, instance:com.testcases.RocheLogout@73ccc3ea]" name="test_Logout" duration-ms="0" started-at="2016-12-21T08:01:31Z" finished-at="2016-12-21T08:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Logout -->
+      </class> <!-- com.testcases.RocheLogout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

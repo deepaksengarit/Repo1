@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="Jar/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="Jar/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="Jar/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="Jar/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="Jar/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="Jar/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="Jar/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="Jar/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="Jar/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="Jar/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="Jar/cssparser-0.9.14.jar"/>
+	<classpathentry kind="lib" path="Jar/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="Jar/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="Jar/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="Jar/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="Jar/htmlunit-2.15.jar"/>
+	<classpathentry kind="lib" path="Jar/htmlunit-core-js-2.15.jar"/>
+	<classpathentry kind="lib" path="Jar/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="Jar/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="Jar/httpmime-4.3.6.jar"/>
+	<classpathentry kind="lib" path="Jar/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="Jar/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="Jar/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="Jar/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="Jar/jna-platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="Jar/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="Jar/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="Jar/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="Jar/jxl-2.6.6.jar"/>
+	<classpathentry kind="lib" path="Jar/jxl.jar"/>
+	<classpathentry kind="lib" path="Jar/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="Jar/log4j.jar"/>
+	<classpathentry kind="lib" path="Jar/nekohtml-1.9.21.jar"/>
+	<classpathentry kind="lib" path="Jar/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="Jar/operadriver-1.5.jar"/>
+	<classpathentry kind="lib" path="Jar/org.testng.eclipse_6.8.6.20141201_2240.jar"/>
+	<classpathentry kind="lib" path="Jar/pdfbox-app-1.8.9.jar"/>
+	<classpathentry kind="lib" path="Jar/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="Jar/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="Jar/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="Jar/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="Jar/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="Jar/selenium-java-2.45.0-srcs.jar"/>
+	<classpathentry kind="lib" path="Jar/selenium-java-2.45.0.jar"/>
+	<classpathentry kind="lib" path="Jar/selenium-server-standalone-2.45.0.jar"/>
+	<classpathentry kind="lib" path="Jar/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="Jar/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="Jar/testng-xslt-maven-plugin-test-0.0.jar"/>
+	<classpathentry kind="lib" path="Jar/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="Jar/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="Jar/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="Jar/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/work hrms/JAR files/Poi Jar/poi-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/work hrms/JAR files/Poi Jar/poi-examples-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/work hrms/JAR files/Poi Jar/poi-excelant-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/work hrms/JAR files/Poi Jar/poi-ooxml-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/work hrms/JAR files/Poi Jar/poi-ooxml-schemas-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/work hrms/JAR files/Poi Jar/poi-scratchpad-3.13-20150929.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,1375 @@
+
+2015-10-21 09:32:31,595 INFO  [Log] **************************************************************************************** 
+2015-10-21 09:32:31,595 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-21 09:32:31,595 INFO  [Log] **************************************************************************************** 
+2015-10-21 09:32:31,595 INFO  [Log] Loading config properties file 
+2015-10-21 09:32:31,595 INFO  [Log] New driver instantiated 
+2015-10-21 09:32:32,855 INFO  [Log] Launching Browser 
+2015-10-21 09:32:32,855 INFO  [Log] Opening URL 
+2015-10-21 09:32:50,835 INFO  [Log] Maximizing Browser 
+2015-10-21 09:32:50,987 INFO  [Log] Testing Login Page 
+2015-10-21 09:35:51,497 INFO  [Log] SignIN Login Page 
+2015-10-21 09:35:51,513 INFO  [Log] Testing Login Page 
+2015-10-21 09:35:59,173 INFO  [Log] Knowledgebase click 
+2015-10-21 09:35:59,173 INFO  [Log] Badges Page 
+2015-10-21 09:36:01,499 INFO  [Log] Badges click 
+2015-10-21 09:36:01,499 INFO  [Log] KbBadges Page 
+2015-10-21 09:36:08,048 INFO  [Log] KbBadges click 
+2015-10-21 09:36:08,048 INFO  [Log] QuizBadges Page 
+2015-10-21 09:36:14,548 INFO  [Log] QuizBadges click 
+2015-10-21 09:36:14,548 INFO  [Log] SonderBadges Page 
+2015-10-21 09:36:20,995 INFO  [Log] SonderBadges click 
+2015-10-21 09:36:20,995 INFO  [Log] VersteckteBadges Page 
+2015-10-21 09:36:27,440 INFO  [Log] VersteckteBadges click 
+2015-10-21 09:36:27,456 INFO  [Log] Premium Page 
+2015-10-21 09:36:36,809 INFO  [Log] Premium click 
+2015-10-21 09:36:36,825 INFO  [Log] Score Page 
+2015-10-21 09:37:37,124 INFO  [Log] Score click 
+2015-10-21 09:37:37,124 INFO  [Log] Statistik  Page 
+2015-10-21 09:38:39,476 INFO  [Log] Statistik  click 
+2015-10-21 09:38:39,476 INFO  [Log] Rangliste  Page 
+2015-10-21 09:38:45,897 INFO  [Log] Rangliste click 
+2015-10-21 09:38:45,897 INFO  [Log] News Page 
+2015-10-21 09:38:51,262 INFO  [Log] News click 
+2015-10-21 09:38:57,642 INFO  [Log] logout Page 
+2015-10-21 09:38:57,642 INFO  [Log] Closing the Browser 
+2015-10-21 09:38:58,836 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-21 10:44:41,750 INFO  [Log] **************************************************************************************** 
+2015-10-21 10:44:41,750 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-21 10:44:41,750 INFO  [Log] **************************************************************************************** 
+2015-10-21 10:44:41,750 INFO  [Log] Loading config properties file 
+2015-10-21 10:44:41,750 INFO  [Log] New driver instantiated 
+2015-10-21 10:44:44,231 INFO  [Log] Launching Browser 
+2015-10-21 10:44:44,231 INFO  [Log] Opening URL 
+2015-10-21 10:45:00,841 INFO  [Log] Maximizing Browser 
+2015-10-21 10:45:01,003 INFO  [Log] Testing Login Page 
+2015-10-21 10:48:01,504 INFO  [Log] SignIN Login Page 
+2015-10-21 10:48:01,519 INFO  [Log] Testing Login Page 
+2015-10-21 10:48:09,146 INFO  [Log] Knowledgebase click 
+2015-10-21 10:48:09,162 INFO  [Log] Badges Page 
+2015-10-21 10:48:11,493 INFO  [Log] Badges click 
+2015-10-21 10:48:11,493 INFO  [Log] KbBadges Page 
+2015-10-21 10:48:18,009 INFO  [Log] KbBadges click 
+2015-10-21 10:48:18,009 INFO  [Log] QuizBadges Page 
+2015-10-21 10:48:24,560 INFO  [Log] QuizBadges click 
+2015-10-21 10:48:24,560 INFO  [Log] SonderBadges Page 
+2015-10-21 10:48:31,021 INFO  [Log] SonderBadges click 
+2015-10-21 10:48:31,021 INFO  [Log] VersteckteBadges Page 
+2015-10-21 10:48:37,518 INFO  [Log] VersteckteBadges click 
+2015-10-21 10:48:37,522 INFO  [Log] Premium Page 
+2015-10-21 10:48:46,885 INFO  [Log] Premium click 
+2015-10-21 10:48:46,885 INFO  [Log] Score Page 
+2015-10-21 10:49:47,195 INFO  [Log] Score click 
+2015-10-21 10:49:47,195 INFO  [Log] Statistik  Page 
+2015-10-21 10:50:49,645 INFO  [Log] Statistik  click 
+2015-10-21 10:50:49,645 INFO  [Log] Rangliste  Page 
+2015-10-21 10:50:56,053 INFO  [Log] Rangliste click 
+2015-10-21 10:50:56,084 INFO  [Log] News Page 
+2015-10-21 10:51:01,452 INFO  [Log] News click 
+2015-10-21 10:51:01,484 INFO  [Log] Settings Page 
+2015-10-21 10:51:05,785 INFO  [Log] Setting click click 
+2015-10-21 10:51:05,785 INFO  [Log] Feedback  Page 
+2015-10-21 10:52:08,055 INFO  [Log] Feedback  not click 
+2015-10-21 10:52:08,055 INFO  [Log] Support   Page 
+2015-10-21 10:52:14,281 INFO  [Log] Rangliste not click 
+2015-10-21 10:52:24,321 INFO  [Log] Unable to logout 
+2015-10-21 10:52:24,337 INFO  [Log] Closing the Browser 
+2015-10-21 10:52:26,057 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-21 10:53:31,816 INFO  [Log] **************************************************************************************** 
+2015-10-21 10:53:31,816 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-21 10:53:31,816 INFO  [Log] **************************************************************************************** 
+2015-10-21 10:53:31,816 INFO  [Log] Loading config properties file 
+2015-10-21 10:53:31,816 INFO  [Log] New driver instantiated 
+2015-10-21 10:53:34,222 INFO  [Log] Launching Browser 
+2015-10-21 10:53:34,222 INFO  [Log] Opening URL 
+2015-10-21 10:53:50,355 INFO  [Log] Maximizing Browser 
+2015-10-21 10:53:50,507 INFO  [Log] Testing Login Page 
+2015-10-21 10:56:51,031 INFO  [Log] SignIN Login Page 
+2015-10-21 10:56:51,047 INFO  [Log] Testing Login Page 
+2015-10-21 10:56:51,078 INFO  [Log] Knowledgebase not click 
+2015-10-21 10:56:51,093 INFO  [Log] Badges Page 
+2015-10-21 10:56:51,125 INFO  [Log] Badges not click 
+2015-10-21 10:56:51,125 INFO  [Log] KbBadges Page 
+2015-10-21 10:57:01,221 INFO  [Log] KbBadges not click 
+2015-10-21 10:57:01,221 INFO  [Log] QuizBadges Page 
+2015-10-21 10:57:11,295 INFO  [Log] QuizBadges not click 
+2015-10-21 10:57:11,297 INFO  [Log] SonderBadges Page 
+2015-10-21 10:57:21,327 INFO  [Log] SonderBadges not click 
+2015-10-21 10:57:21,342 INFO  [Log] VersteckteBadges Page 
+2015-10-21 10:57:31,369 INFO  [Log] VersteckteBadges not click 
+2015-10-21 10:57:31,415 INFO  [Log] Premium Page 
+2015-10-21 10:57:40,759 INFO  [Log] Premium click 
+2015-10-21 10:57:40,774 INFO  [Log] Score Page 
+2015-10-21 10:58:41,086 INFO  [Log] Score click 
+2015-10-21 10:58:41,086 INFO  [Log] Statistik  Page 
+2015-10-21 10:59:43,483 INFO  [Log] Statistik  click 
+2015-10-21 10:59:43,483 INFO  [Log] Rangliste  Page 
+2015-10-21 10:59:49,948 INFO  [Log] Rangliste click 
+2015-10-21 10:59:49,948 INFO  [Log] News Page 
+2015-10-21 10:59:55,326 INFO  [Log] News click 
+2015-10-21 10:59:55,326 INFO  [Log] Settings Page 
+2015-10-21 10:59:59,654 INFO  [Log] Setting click click 
+2015-10-21 10:59:59,654 INFO  [Log] Feedback  Page 
+2015-10-21 11:01:01,902 INFO  [Log] Feedback  not click 
+2015-10-21 11:01:01,902 INFO  [Log] Support   Page 
+2015-10-21 11:01:08,199 INFO  [Log] Rangliste not click 
+2015-10-21 11:01:18,255 INFO  [Log] Unable to logout 
+2015-10-21 11:01:18,271 INFO  [Log] Closing the Browser 
+2015-10-21 11:01:19,508 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-21 11:52:27,891 INFO  [Log] **************************************************************************************** 
+2015-10-21 11:52:27,891 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-21 11:52:27,891 INFO  [Log] **************************************************************************************** 
+2015-10-21 11:52:27,891 INFO  [Log] Loading config properties file 
+2015-10-21 11:52:27,891 INFO  [Log] New driver instantiated 
+2015-10-21 11:52:29,918 INFO  [Log] Launching Browser 
+2015-10-21 11:52:29,918 INFO  [Log] Opening URL 
+2015-10-21 11:52:46,790 INFO  [Log] Maximizing Browser 
+2015-10-21 11:52:46,944 INFO  [Log] Testing Login Page 
+2015-10-21 11:55:47,475 INFO  [Log] SignIN Login Page 
+2015-10-21 11:55:47,475 INFO  [Log] Testing Login Page 
+2015-10-21 11:55:55,125 INFO  [Log] Knowledgebase click 
+2015-10-21 11:55:55,141 INFO  [Log] Badges Page 
+2015-10-21 11:55:57,457 INFO  [Log] Badges click 
+2015-10-21 11:55:57,473 INFO  [Log] KbBadges Page 
+2015-10-21 11:56:04,003 INFO  [Log] KbBadges click 
+2015-10-21 11:56:04,003 INFO  [Log] QuizBadges Page 
+2015-10-21 11:56:10,509 INFO  [Log] QuizBadges click 
+2015-10-21 11:56:10,509 INFO  [Log] SonderBadges Page 
+2015-10-21 11:56:16,947 INFO  [Log] SonderBadges click 
+2015-10-21 11:56:16,947 INFO  [Log] VersteckteBadges Page 
+2015-10-21 11:56:23,465 INFO  [Log] VersteckteBadges click 
+2015-10-21 11:56:23,480 INFO  [Log] Premium Page 
+2015-10-21 11:56:32,864 INFO  [Log] Premium click 
+2015-10-21 11:56:32,879 INFO  [Log] Score Page 
+2015-10-21 11:57:33,188 INFO  [Log] Score click 
+2015-10-21 11:57:33,188 INFO  [Log] Statistik  Page 
+2015-10-21 11:58:35,605 INFO  [Log] Statistik  click 
+2015-10-21 11:58:35,605 INFO  [Log] Rangliste  Page 
+2015-10-21 11:58:42,000 INFO  [Log] Rangliste click 
+2015-10-21 11:58:42,000 INFO  [Log] News Page 
+2015-10-21 11:58:47,398 INFO  [Log] News click 
+2015-10-21 11:58:47,413 INFO  [Log] Settings Page 
+2015-10-21 11:58:51,698 INFO  [Log] Setting click click 
+2015-10-21 11:58:51,698 INFO  [Log] Feedback  Page 
+2015-10-21 11:59:53,996 INFO  [Log] Feedback  not click 
+2015-10-21 11:59:53,997 INFO  [Log] Support   Page 
+2015-10-21 12:00:00,228 INFO  [Log] Rangliste not click 
+2015-10-21 12:00:10,293 INFO  [Log] Unable to logout 
+2015-10-21 12:00:10,309 INFO  [Log] Closing the Browser 
+2015-10-21 12:00:11,534 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-21 12:15:23,805 INFO  [Log] **************************************************************************************** 
+2015-10-21 12:15:23,805 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-21 12:15:23,805 INFO  [Log] **************************************************************************************** 
+2015-10-21 12:15:23,805 INFO  [Log] Loading config properties file 
+2015-10-21 12:15:23,805 INFO  [Log] New driver instantiated 
+2015-10-21 12:15:25,548 INFO  [Log] Launching Browser 
+2015-10-21 12:15:25,549 INFO  [Log] Opening URL 
+2015-10-21 12:15:41,558 INFO  [Log] Maximizing Browser 
+2015-10-21 12:15:41,715 INFO  [Log] Testing Login Page 
+2015-10-21 12:18:42,220 INFO  [Log] SignIN Login Page 
+2015-10-21 12:18:42,236 INFO  [Log] Premium Page 
+2015-10-21 12:18:42,283 INFO  [Log] Premium not click 
+2015-10-21 12:18:42,283 INFO  [Log] Score Page 
+2015-10-21 12:18:42,330 INFO  [Log] Score not click 
+2015-10-21 12:18:42,330 INFO  [Log] Statistik  Page 
+2015-10-21 12:18:52,418 INFO  [Log] Statistik  not click 
+2015-10-21 12:18:52,418 INFO  [Log] Rangliste  Page 
+2015-10-21 12:19:02,471 INFO  [Log] Rangliste not click 
+2015-10-21 12:19:02,508 INFO  [Log] News Page 
+2015-10-21 12:19:07,945 INFO  [Log] News click 
+2015-10-21 12:19:07,960 INFO  [Log] Settings Page 
+2015-10-21 12:19:12,244 INFO  [Log] Setting click click 
+2015-10-21 12:19:12,244 INFO  [Log] Feedback  Page 
+2015-10-21 12:20:14,500 INFO  [Log] Feedback  not click 
+2015-10-21 12:20:14,500 INFO  [Log] Support   Page 
+2015-10-21 12:20:20,720 INFO  [Log] Rangliste not click 
+2015-10-21 12:20:30,826 INFO  [Log] Unable to logout 
+2015-10-21 12:20:30,842 INFO  [Log] Closing the Browser 
+2015-10-21 12:20:32,069 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-23 10:46:01,056 INFO  [Log] **************************************************************************************** 
+2015-10-23 10:46:01,056 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-23 10:46:01,056 INFO  [Log] **************************************************************************************** 
+2015-10-23 10:46:01,056 INFO  [Log] Loading config properties file 
+2015-10-23 10:46:01,056 INFO  [Log] New driver instantiated 
+2015-10-23 10:46:03,100 INFO  [Log] Launching Browser 
+2015-10-23 10:46:03,100 INFO  [Log] Opening URL 
+2015-10-23 10:46:19,537 INFO  [Log] Maximizing Browser 
+2015-10-23 10:46:19,689 INFO  [Log] Testing Login Page 
+2015-10-23 10:49:20,175 INFO  [Log] SignIN Login Page 
+2015-10-23 10:49:20,222 INFO  [Log] Testing Login Page 
+2015-10-23 10:49:27,849 INFO  [Log] Knowledgebase click 
+2015-10-23 10:49:27,865 INFO  [Log] Badges Page 
+2015-10-23 10:49:30,186 INFO  [Log] Badges click 
+2015-10-23 10:49:30,186 INFO  [Log] KbBadges Page 
+2015-10-23 10:49:36,700 INFO  [Log] KbBadges click 
+2015-10-23 10:49:36,700 INFO  [Log] QuizBadges Page 
+2015-10-23 10:49:43,198 INFO  [Log] QuizBadges click 
+2015-10-23 10:49:43,198 INFO  [Log] SonderBadges Page 
+2015-10-23 10:49:49,645 INFO  [Log] SonderBadges click 
+2015-10-23 10:49:49,645 INFO  [Log] VersteckteBadges Page 
+2015-10-23 10:49:56,142 INFO  [Log] VersteckteBadges click 
+2015-10-23 10:49:56,220 INFO  [Log] Premium Page 
+2015-10-23 10:50:05,691 INFO  [Log] Premium click 
+2015-10-23 10:50:05,706 INFO  [Log] Score Page 
+2015-10-23 10:51:05,994 INFO  [Log] Score click 
+2015-10-23 10:51:05,994 INFO  [Log] Statistik  Page 
+2015-10-23 10:52:08,414 INFO  [Log] Statistik  click 
+2015-10-23 10:52:08,414 INFO  [Log] Rangliste  Page 
+2015-10-23 10:52:14,845 INFO  [Log] Rangliste click 
+2015-10-23 10:52:14,894 INFO  [Log] News Page 
+2015-10-23 10:52:20,293 INFO  [Log] News click 
+2015-10-23 10:52:20,324 INFO  [Log] Settings Page 
+2015-10-23 10:52:24,625 INFO  [Log] Setting click click 
+2015-10-23 10:52:24,625 INFO  [Log] Feedback  Page 
+2015-10-23 10:53:26,896 INFO  [Log] Feedback  not click 
+2015-10-23 10:53:26,897 INFO  [Log] Support   Page 
+2015-10-23 10:53:33,159 INFO  [Log] Rangliste not click 
+2015-10-23 10:53:43,239 INFO  [Log] Unable to logout 
+2015-10-23 10:53:43,270 INFO  [Log] Closing the Browser 
+2015-10-23 10:53:44,560 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-27 05:44:31,433 INFO  [Log] **************************************************************************************** 
+2015-10-27 05:44:31,433 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-27 05:44:31,433 INFO  [Log] **************************************************************************************** 
+2015-10-27 05:44:31,433 INFO  [Log] Loading config properties file 
+2015-10-27 05:44:31,433 INFO  [Log] New driver instantiated 
+2015-10-27 05:44:33,302 INFO  [Log] Launching Browser 
+2015-10-27 05:44:33,302 INFO  [Log] Opening URL 
+2015-10-27 05:44:49,474 INFO  [Log] Maximizing Browser 
+2015-10-27 05:44:49,635 INFO  [Log] Testing Login Page 
+2015-10-27 05:47:50,209 INFO  [Log] SignIN Login Page 
+2015-10-27 05:47:50,271 INFO  [Log] Testing Login Page 
+2015-10-27 05:47:58,003 INFO  [Log] Knowledgebase click 
+2015-10-27 05:47:58,019 INFO  [Log] Badges Page 
+2015-10-27 05:48:00,349 INFO  [Log] Badges click 
+2015-10-27 05:48:00,350 INFO  [Log] KbBadges Page 
+2015-10-27 05:48:06,849 INFO  [Log] KbBadges click 
+2015-10-27 05:48:06,849 INFO  [Log] QuizBadges Page 
+2015-10-27 05:48:13,393 INFO  [Log] QuizBadges click 
+2015-10-27 05:48:13,393 INFO  [Log] SonderBadges Page 
+2015-10-27 05:48:19,845 INFO  [Log] SonderBadges click 
+2015-10-27 05:48:19,845 INFO  [Log] VersteckteBadges Page 
+2015-10-27 05:48:26,369 INFO  [Log] VersteckteBadges click 
+2015-10-27 05:48:26,432 INFO  [Log] Premium Page 
+2015-10-27 05:48:35,825 INFO  [Log] Premium click 
+2015-10-27 05:48:35,949 INFO  [Log] Score Page 
+2015-10-27 05:49:36,283 INFO  [Log] Score click 
+2015-10-27 05:49:36,283 INFO  [Log] Statistik  Page 
+2015-10-27 05:50:38,694 INFO  [Log] Statistik  click 
+2015-10-27 05:50:38,694 INFO  [Log] Rangliste  Page 
+2015-10-27 05:50:45,079 INFO  [Log] Rangliste click 
+2015-10-27 05:50:45,112 INFO  [Log] News Page 
+2015-10-27 05:50:50,485 INFO  [Log] News click 
+2015-10-27 05:50:50,485 INFO  [Log] Settings Page 
+2015-10-27 05:50:54,947 INFO  [Log] Setting click click 
+2015-10-27 05:50:54,947 INFO  [Log] Feedback  Page 
+2015-10-27 05:51:57,226 INFO  [Log] Feedback  not click 
+2015-10-27 05:51:57,226 INFO  [Log] Support   Page 
+2015-10-27 05:52:03,425 INFO  [Log] Rangliste not click 
+2015-10-27 05:52:13,544 INFO  [Log] Unable to logout 
+2015-10-27 05:52:13,593 INFO  [Log] Closing the Browser 
+2015-10-27 05:52:14,768 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-27 09:34:20,774 INFO  [Log] **************************************************************************************** 
+2015-10-27 09:34:20,775 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-27 09:34:20,775 INFO  [Log] **************************************************************************************** 
+2015-10-27 09:34:20,775 INFO  [Log] Loading config properties file 
+2015-10-27 09:34:20,775 INFO  [Log] New driver instantiated 
+2015-10-27 09:34:23,537 INFO  [Log] Launching Browser 
+2015-10-27 09:34:23,537 INFO  [Log] Opening URL 
+2015-10-27 09:34:39,055 INFO  [Log] Maximizing Browser 
+2015-10-27 09:34:39,219 INFO  [Log] Testing Login Page 
+2015-10-27 09:37:39,775 INFO  [Log] SignIN Login Page 
+2015-10-27 09:37:39,799 INFO  [Log] Testing Login Page 
+2015-10-27 09:37:47,406 INFO  [Log] Knowledgebase click 
+2015-10-27 09:37:47,415 INFO  [Log] Badges Page 
+2015-10-27 09:37:49,728 INFO  [Log] Badges click 
+2015-10-27 09:37:49,728 INFO  [Log] KbBadges Page 
+2015-10-27 09:37:56,255 INFO  [Log] KbBadges click 
+2015-10-27 09:37:56,256 INFO  [Log] QuizBadges Page 
+2015-10-27 09:38:10,458 INFO  [Log] QuizBadges not click 
+2015-10-27 09:38:10,460 INFO  [Log] SonderBadges Page 
+2015-10-27 09:38:20,477 INFO  [Log] SonderBadges not click 
+2015-10-27 09:38:20,479 INFO  [Log] VersteckteBadges Page 
+2015-10-27 09:38:30,516 INFO  [Log] VersteckteBadges not click 
+2015-10-27 09:38:30,556 INFO  [Log] Score Page 
+2015-10-27 09:38:40,622 INFO  [Log] Score not click 
+2015-10-27 09:38:40,623 INFO  [Log] Statistik  Page 
+2015-10-27 09:38:50,675 INFO  [Log] Statistik  not click 
+2015-10-27 09:38:50,677 INFO  [Log] Rangliste  Page 
+2015-10-27 09:39:00,725 INFO  [Log] Rangliste not click 
+2015-10-27 09:39:00,740 INFO  [Log] News Page 
+2015-10-27 09:39:10,804 INFO  [Log] News not click 
+2015-10-27 09:39:10,839 INFO  [Log] Settings Page 
+2015-10-27 09:39:20,894 INFO  [Log] Setting  not click 
+2015-10-27 09:39:20,895 INFO  [Log] Feedback  Page 
+2015-10-27 09:39:30,929 INFO  [Log] Feedback  not click 
+2015-10-27 09:39:30,930 INFO  [Log] Support   Page 
+2015-10-27 09:39:40,953 INFO  [Log] Rangliste not click 
+2015-10-27 09:39:51,062 INFO  [Log] Unable to logout 
+2015-10-27 09:39:51,082 INFO  [Log] Closing the Browser 
+2015-10-27 09:39:52,290 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-27 09:41:25,603 INFO  [Log] **************************************************************************************** 
+2015-10-27 09:41:25,604 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-27 09:41:25,604 INFO  [Log] **************************************************************************************** 
+2015-10-27 09:41:25,604 INFO  [Log] Loading config properties file 
+2015-10-27 09:41:25,604 INFO  [Log] New driver instantiated 
+2015-10-27 09:41:27,384 INFO  [Log] Launching Browser 
+2015-10-27 09:41:27,384 INFO  [Log] Opening URL 
+2015-10-27 09:41:47,625 INFO  [Log] Maximizing Browser 
+2015-10-27 09:41:47,787 INFO  [Log] Testing Login Page 
+2015-10-27 09:44:48,291 INFO  [Log] SignIN Login Page 
+2015-10-27 09:44:48,304 INFO  [Log] Testing Login Page 
+2015-10-27 09:44:55,930 INFO  [Log] Knowledgebase click 
+2015-10-27 09:44:55,937 INFO  [Log] Badges Page 
+2015-10-27 09:44:58,395 INFO  [Log] Badges click 
+2015-10-27 09:44:58,395 INFO  [Log] KbBadges Page 
+2015-10-27 09:45:04,920 INFO  [Log] KbBadges click 
+2015-10-27 09:45:04,921 INFO  [Log] QuizBadges Page 
+2015-10-27 09:45:29,140 INFO  [Log] SonderBadges Page 
+2015-10-27 09:45:49,236 INFO  [Log] VersteckteBadges Page 
+2015-10-27 09:46:09,349 INFO  [Log] Score Page 
+2015-10-27 09:46:19,410 INFO  [Log] Score not click 
+2015-10-27 09:46:19,411 INFO  [Log] Statistik  Page 
+2015-10-27 09:46:29,424 INFO  [Log] Statistik  not click 
+2015-10-27 09:46:29,426 INFO  [Log] Rangliste  Page 
+2015-10-27 09:46:39,446 INFO  [Log] Rangliste not click 
+2015-10-27 09:46:39,473 INFO  [Log] News Page 
+2015-10-27 09:46:49,507 INFO  [Log] News not click 
+2015-10-27 09:46:49,529 INFO  [Log] Settings Page 
+2015-10-27 09:46:59,605 INFO  [Log] Setting  not click 
+2015-10-27 09:46:59,606 INFO  [Log] Feedback  Page 
+2015-10-27 09:47:09,648 INFO  [Log] Feedback  not click 
+2015-10-27 09:47:09,650 INFO  [Log] Support   Page 
+2015-10-27 09:47:19,669 INFO  [Log] Rangliste not click 
+2015-10-27 09:47:29,722 INFO  [Log] Unable to logout 
+2015-10-27 09:47:29,743 INFO  [Log] Closing the Browser 
+2015-10-27 09:47:30,936 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-27 09:50:55,555 INFO  [Log] **************************************************************************************** 
+2015-10-27 09:50:55,556 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-27 09:50:55,556 INFO  [Log] **************************************************************************************** 
+2015-10-27 09:50:55,556 INFO  [Log] Loading config properties file 
+2015-10-27 09:50:55,556 INFO  [Log] New driver instantiated 
+2015-10-27 09:50:57,338 INFO  [Log] Launching Browser 
+2015-10-27 09:50:57,338 INFO  [Log] Opening URL 
+2015-10-27 09:51:15,011 INFO  [Log] Maximizing Browser 
+2015-10-27 09:51:15,162 INFO  [Log] Testing Login Page 
+2015-10-27 09:54:15,680 INFO  [Log] SignIN Login Page 
+2015-10-27 09:54:15,694 INFO  [Log] Testing Login Page 
+2015-10-27 09:54:23,314 INFO  [Log] Knowledgebase click 
+2015-10-27 09:54:23,320 INFO  [Log] Badges Page 
+2015-10-27 09:54:25,649 INFO  [Log] Badges click 
+2015-10-27 09:54:25,650 INFO  [Log] KbBadges Page 
+2015-10-27 09:54:32,184 INFO  [Log] KbBadges click 
+2015-10-27 09:54:32,184 INFO  [Log] QuizBadges Page 
+2015-10-27 09:54:38,670 INFO  [Log] QuizBadges click 
+2015-10-27 09:54:38,671 INFO  [Log] SonderBadges Page 
+2015-10-27 09:54:45,123 INFO  [Log] SonderBadges click 
+2015-10-27 09:54:45,123 INFO  [Log] VersteckteBadges Page 
+2015-10-27 09:54:51,512 INFO  [Log] VersteckteBadges click 
+2015-10-27 09:54:51,525 INFO  [Log] Score Page 
+2015-10-27 09:55:51,815 INFO  [Log] Score click 
+2015-10-27 09:55:51,815 INFO  [Log] Statistik  Page 
+2015-10-27 09:56:54,196 INFO  [Log] Statistik  click 
+2015-10-27 09:56:54,196 INFO  [Log] Rangliste  Page 
+2015-10-27 09:57:00,723 INFO  [Log] Rangliste click 
+2015-10-27 09:57:00,757 INFO  [Log] News Page 
+2015-10-27 09:57:06,267 INFO  [Log] News click 
+2015-10-27 09:57:06,297 INFO  [Log] Settings Page 
+2015-10-27 09:57:10,599 INFO  [Log] Setting click click 
+2015-10-27 09:57:10,600 INFO  [Log] Feedback  Page 
+2015-10-27 09:58:14,776 INFO  [Log] Feedback  not click 
+2015-10-27 09:58:14,778 INFO  [Log] Support   Page 
+2015-10-27 09:58:16,787 INFO  [Log] Rangliste not click 
+2015-10-27 09:58:18,836 INFO  [Log] Unable to logout 
+2015-10-27 09:58:18,865 INFO  [Log] Closing the Browser 
+2015-10-27 09:58:20,141 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-27 09:58:58,446 INFO  [Log] **************************************************************************************** 
+2015-10-27 09:58:58,446 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-27 09:58:58,446 INFO  [Log] **************************************************************************************** 
+2015-10-27 09:58:58,446 INFO  [Log] Loading config properties file 
+2015-10-27 09:58:58,446 INFO  [Log] New driver instantiated 
+2015-10-27 09:59:00,709 INFO  [Log] Launching Browser 
+2015-10-27 09:59:00,709 INFO  [Log] Opening URL 
+2015-10-27 09:59:17,173 INFO  [Log] Maximizing Browser 
+2015-10-27 09:59:17,325 INFO  [Log] Testing Login Page 
+2015-10-27 10:02:17,945 INFO  [Log] SignIN Login Page 
+2015-10-27 10:02:17,962 INFO  [Log] Testing Login Page 
+2015-10-27 10:02:25,567 INFO  [Log] Knowledgebase click 
+2015-10-27 10:02:25,576 INFO  [Log] Badges Page 
+2015-10-27 10:02:27,898 INFO  [Log] Badges click 
+2015-10-27 10:02:27,899 INFO  [Log] KbBadges Page 
+2015-10-27 10:02:34,396 INFO  [Log] KbBadges click 
+2015-10-27 10:02:34,397 INFO  [Log] QuizBadges Page 
+2015-10-27 10:02:40,884 INFO  [Log] QuizBadges click 
+2015-10-27 10:02:40,885 INFO  [Log] SonderBadges Page 
+2015-10-27 10:02:47,363 INFO  [Log] SonderBadges click 
+2015-10-27 10:02:47,363 INFO  [Log] VersteckteBadges Page 
+2015-10-27 10:02:53,822 INFO  [Log] VersteckteBadges click 
+2015-10-27 10:02:53,833 INFO  [Log] Premium Page 
+2015-10-27 10:03:19,553 INFO  [Log] Premium click 
+2015-10-27 10:03:19,561 INFO  [Log] Score Page 
+2015-10-27 10:04:19,865 INFO  [Log] Score click 
+2015-10-27 10:04:19,866 INFO  [Log] Statistik  Page 
+2015-10-27 10:05:22,286 INFO  [Log] Statistik  click 
+2015-10-27 10:05:22,286 INFO  [Log] Rangliste  Page 
+2015-10-27 10:05:28,677 INFO  [Log] Rangliste click 
+2015-10-27 10:05:28,685 INFO  [Log] News Page 
+2015-10-27 10:05:34,067 INFO  [Log] News click 
+2015-10-27 10:05:34,073 INFO  [Log] Settings Page 
+2015-10-27 10:05:38,385 INFO  [Log] Setting click click 
+2015-10-27 10:05:38,385 INFO  [Log] Feedback  Page 
+2015-10-27 10:06:40,551 INFO  [Log] Feedback  not click 
+2015-10-27 10:06:40,552 INFO  [Log] Support   Page 
+2015-10-27 10:06:46,718 INFO  [Log] Rangliste not click 
+2015-10-27 10:06:56,772 INFO  [Log] Unable to logout 
+2015-10-27 10:06:56,779 INFO  [Log] Closing the Browser 
+2015-10-27 10:06:57,986 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-27 10:57:00,989 INFO  [Log] **************************************************************************************** 
+2015-10-27 10:57:00,989 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-27 10:57:00,989 INFO  [Log] **************************************************************************************** 
+2015-10-27 10:57:00,989 INFO  [Log] Loading config properties file 
+2015-10-27 10:57:00,989 INFO  [Log] New driver instantiated 
+2015-10-27 10:57:02,804 INFO  [Log] Launching Browser 
+2015-10-27 10:57:02,805 INFO  [Log] Opening URL 
+2015-10-27 10:57:19,451 INFO  [Log] Maximizing Browser 
+2015-10-27 10:57:19,603 INFO  [Log] Testing Login Page 
+2015-10-27 11:00:20,146 INFO  [Log] SignIN Login Page 
+2015-10-27 11:00:20,146 INFO  [Log] Testing Login Page 
+2015-10-27 11:00:27,787 INFO  [Log] Knowledgebase click 
+2015-10-27 11:00:27,802 INFO  [Log] Badges Page 
+2015-10-27 11:00:30,101 INFO  [Log] Badges click 
+2015-10-27 11:00:30,101 INFO  [Log] KbBadges Page 
+2015-10-27 11:00:36,599 INFO  [Log] KbBadges click 
+2015-10-27 11:00:36,599 INFO  [Log] QuizBadges Page 
+2015-10-27 11:00:43,064 INFO  [Log] QuizBadges click 
+2015-10-27 11:00:43,064 INFO  [Log] SonderBadges Page 
+2015-10-27 11:00:49,576 INFO  [Log] SonderBadges click 
+2015-10-27 11:00:49,576 INFO  [Log] VersteckteBadges Page 
+2015-10-27 11:00:56,027 INFO  [Log] VersteckteBadges click 
+2015-10-27 11:00:56,042 INFO  [Log] Score Page 
+2015-10-27 11:01:56,362 INFO  [Log] Score click 
+2015-10-27 11:01:56,362 INFO  [Log] Statistik  Page 
+2015-10-27 11:02:58,748 INFO  [Log] Statistik  click 
+2015-10-27 11:02:58,748 INFO  [Log] Rangliste  Page 
+2015-10-27 11:03:05,133 INFO  [Log] Rangliste click 
+2015-10-27 11:03:05,133 INFO  [Log] News Page 
+2015-10-27 11:03:10,513 INFO  [Log] News click 
+2015-10-27 11:03:10,513 INFO  [Log] Settings Page 
+2015-10-27 11:03:14,812 INFO  [Log] Setting click click 
+2015-10-27 11:03:14,812 INFO  [Log] Feedback  Page 
+2015-10-27 11:03:23,226 INFO  [Log] Feedback  click 
+2015-10-27 11:03:23,226 INFO  [Log] Support   Page 
+2015-10-27 11:03:35,805 INFO  [Log] Rangliste click 
+2015-10-27 11:03:42,219 INFO  [Log] logout Page 
+2015-10-27 11:03:42,235 INFO  [Log] Closing the Browser 
+2015-10-27 11:03:43,424 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-27 12:15:40,965 INFO  [Log] **************************************************************************************** 
+2015-10-27 12:15:40,965 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-27 12:15:40,965 INFO  [Log] **************************************************************************************** 
+2015-10-27 12:15:40,965 INFO  [Log] Loading config properties file 
+2015-10-27 12:15:40,965 INFO  [Log] New driver instantiated 
+2015-10-27 12:15:42,799 INFO  [Log] Launching Browser 
+2015-10-27 12:15:42,799 INFO  [Log] Opening URL 
+2015-10-27 12:16:00,360 INFO  [Log] Maximizing Browser 
+2015-10-27 12:16:00,521 INFO  [Log] Testing Login Page 
+2015-10-27 12:19:01,025 INFO  [Log] SignIN Login Page 
+2015-10-27 12:19:01,041 INFO  [Log] Testing Login Page 
+2015-10-27 12:19:08,706 INFO  [Log] Knowledgebase click 
+2015-10-27 12:19:08,737 INFO  [Log] Badges Page 
+2015-10-27 12:19:11,084 INFO  [Log] Badges click 
+2015-10-27 12:19:11,084 INFO  [Log] KbBadges Page 
+2015-10-27 12:19:17,651 INFO  [Log] KbBadges click 
+2015-10-27 12:19:17,651 INFO  [Log] QuizBadges Page 
+2015-10-27 12:19:24,235 INFO  [Log] QuizBadges click 
+2015-10-27 12:19:24,235 INFO  [Log] SonderBadges Page 
+2015-10-27 12:19:30,732 INFO  [Log] SonderBadges click 
+2015-10-27 12:19:30,732 INFO  [Log] VersteckteBadges Page 
+2015-10-27 12:19:37,265 INFO  [Log] VersteckteBadges click 
+2015-10-27 12:19:37,296 INFO  [Log] Score Page 
+2015-10-27 12:20:37,715 INFO  [Log] Score click 
+2015-10-27 12:20:37,715 INFO  [Log] Statistik  Page 
+2015-10-27 12:21:41,881 INFO  [Log] Statistik  not click 
+2015-10-27 12:21:41,881 INFO  [Log] Rangliste  Page 
+2015-10-27 12:21:43,944 INFO  [Log] Rangliste not click 
+2015-10-27 12:21:43,991 INFO  [Log] News Page 
+2015-10-27 12:21:46,038 INFO  [Log] News not click 
+2015-10-27 12:21:46,054 INFO  [Log] Settings Page 
+2015-10-27 12:21:48,126 INFO  [Log] Setting  not click 
+2015-10-27 12:21:48,126 INFO  [Log] Feedback  Page 
+2015-10-27 12:21:50,189 INFO  [Log] Feedback  not click 
+2015-10-27 12:21:50,189 INFO  [Log] Support   Page 
+2015-10-27 12:21:52,204 INFO  [Log] Rangliste not click 
+2015-10-27 12:21:54,298 INFO  [Log] Unable to logout 
+2015-10-27 12:21:54,329 INFO  [Log] Closing the Browser 
+2015-10-27 12:21:55,470 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 05:54:27,451 INFO  [Log] **************************************************************************************** 
+2015-10-28 05:54:27,451 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 05:54:27,451 INFO  [Log] **************************************************************************************** 
+2015-10-28 05:54:27,451 INFO  [Log] Loading config properties file 
+2015-10-28 05:54:27,451 INFO  [Log] New driver instantiated 
+2015-10-28 05:54:29,381 INFO  [Log] Launching Browser 
+2015-10-28 05:54:29,381 INFO  [Log] Opening URL 
+2015-10-28 05:54:46,157 INFO  [Log] Maximizing Browser 
+2015-10-28 05:54:46,314 INFO  [Log] Testing Login Page 
+2015-10-28 05:57:46,818 INFO  [Log] SignIN Login Page 
+2015-10-28 05:57:46,849 INFO  [Log] Testing Login Page 
+2015-10-28 05:57:59,745 INFO  [Log] LearnLessonAgain click 
+2015-10-28 05:57:59,745 INFO  [Log] Testing Login Page 
+2015-10-28 05:58:16,737 INFO  [Log] Knowledgebase click 
+2015-10-28 05:58:16,753 INFO  [Log] Badges Page 
+2015-10-28 05:58:19,055 INFO  [Log] Badges click 
+2015-10-28 05:58:19,055 INFO  [Log] KbBadges Page 
+2015-10-28 05:58:25,635 INFO  [Log] KbBadges click 
+2015-10-28 05:58:25,635 INFO  [Log] QuizBadges Page 
+2015-10-28 05:58:32,148 INFO  [Log] QuizBadges click 
+2015-10-28 05:58:32,148 INFO  [Log] SonderBadges Page 
+2015-10-28 05:58:38,614 INFO  [Log] SonderBadges click 
+2015-10-28 05:58:38,630 INFO  [Log] VersteckteBadges Page 
+2015-10-28 05:58:45,128 INFO  [Log] VersteckteBadges click 
+2015-10-28 05:58:45,191 INFO  [Log] Score Page 
+2015-10-28 05:59:45,508 INFO  [Log] Score click 
+2015-10-28 05:59:45,508 INFO  [Log] Statistik  Page 
+2015-10-28 06:00:47,894 INFO  [Log] Statistik  click 
+2015-10-28 06:00:47,894 INFO  [Log] Rangliste  Page 
+2015-10-28 06:00:54,301 INFO  [Log] Rangliste click 
+2015-10-28 06:00:54,317 INFO  [Log] News Page 
+2015-10-28 06:00:59,714 INFO  [Log] News click 
+2015-10-28 06:00:59,745 INFO  [Log] Settings Page 
+2015-10-28 06:01:04,048 INFO  [Log] Setting click click 
+2015-10-28 06:01:04,064 INFO  [Log] Feedback  Page 
+2015-10-28 06:01:12,546 INFO  [Log] Feedback  click 
+2015-10-28 06:01:12,546 INFO  [Log] Support   Page 
+2015-10-28 06:01:25,090 INFO  [Log] Rangliste click 
+2015-10-28 06:01:31,620 INFO  [Log] logout Page 
+2015-10-28 06:01:31,651 INFO  [Log] Closing the Browser 
+2015-10-28 06:01:32,856 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 09:52:53,542 INFO  [Log] **************************************************************************************** 
+2015-10-28 09:52:53,558 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 09:52:53,558 INFO  [Log] **************************************************************************************** 
+2015-10-28 09:52:53,558 INFO  [Log] Loading config properties file 
+2015-10-28 09:52:53,558 INFO  [Log] New driver instantiated 
+2015-10-28 09:52:56,466 INFO  [Log] Launching Browser 
+2015-10-28 09:52:56,466 INFO  [Log] Opening URL 
+2015-10-28 09:53:13,059 INFO  [Log] Maximizing Browser 
+2015-10-28 09:53:13,242 INFO  [Log] Testing Login Page 
+2015-10-28 09:56:13,837 INFO  [Log] SignIN Login Page 
+2015-10-28 09:56:13,875 INFO  [Log] Testing Login Page 
+2015-10-28 09:56:31,040 INFO  [Log] Knowledgebase click 
+2015-10-28 09:56:31,041 INFO  [Log] Testing Login Page 
+2015-10-28 09:56:43,865 INFO  [Log] LearnLessonAgain click 
+2015-10-28 09:56:43,866 INFO  [Log] Testing Login Page 
+2015-10-28 09:56:58,682 INFO  [Log] LearnLessonAgain click 
+2015-10-28 09:56:58,708 INFO  [Log] Badges Page 
+2015-10-28 09:57:01,126 INFO  [Log] Badges click 
+2015-10-28 09:57:01,126 INFO  [Log] KbBadges Page 
+2015-10-28 09:57:07,665 INFO  [Log] KbBadges click 
+2015-10-28 09:57:07,666 INFO  [Log] QuizBadges Page 
+2015-10-28 09:57:14,184 INFO  [Log] QuizBadges click 
+2015-10-28 09:57:14,184 INFO  [Log] SonderBadges Page 
+2015-10-28 09:57:20,641 INFO  [Log] SonderBadges click 
+2015-10-28 09:57:20,642 INFO  [Log] VersteckteBadges Page 
+2015-10-28 09:57:22,768 INFO  [Log] VersteckteBadges not click 
+2015-10-28 09:57:22,835 INFO  [Log] Score Page 
+2015-10-28 09:57:32,898 INFO  [Log] Score not click 
+2015-10-28 09:57:32,900 INFO  [Log] Statistik  Page 
+2015-10-28 09:57:42,921 INFO  [Log] Statistik  not click 
+2015-10-28 09:57:42,922 INFO  [Log] Rangliste  Page 
+2015-10-28 09:57:52,985 INFO  [Log] Rangliste not click 
+2015-10-28 09:57:53,037 INFO  [Log] News Page 
+2015-10-28 09:58:03,052 INFO  [Log] News not click 
+2015-10-28 09:58:03,094 INFO  [Log] Settings Page 
+2015-10-28 09:58:13,144 INFO  [Log] Setting  not click 
+2015-10-28 09:58:13,145 INFO  [Log] Feedback  Page 
+2015-10-28 09:58:23,207 INFO  [Log] Feedback  not click 
+2015-10-28 09:58:23,209 INFO  [Log] Support   Page 
+2015-10-28 09:58:33,259 INFO  [Log] Rangliste not click 
+2015-10-28 09:58:43,370 INFO  [Log] Unable to logout 
+2015-10-28 09:58:43,413 INFO  [Log] Closing the Browser 
+2015-10-28 09:58:44,640 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 10:10:11,166 INFO  [Log] **************************************************************************************** 
+2015-10-28 10:10:11,166 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 10:10:11,166 INFO  [Log] **************************************************************************************** 
+2015-10-28 10:10:11,166 INFO  [Log] Loading config properties file 
+2015-10-28 10:10:11,166 INFO  [Log] New driver instantiated 
+2015-10-28 10:10:13,140 INFO  [Log] Launching Browser 
+2015-10-28 10:10:13,140 INFO  [Log] Opening URL 
+2015-10-28 10:10:32,112 INFO  [Log] Maximizing Browser 
+2015-10-28 10:10:32,263 INFO  [Log] Testing Login Page 
+2015-10-28 10:13:32,770 INFO  [Log] SignIN Login Page 
+2015-10-28 10:13:32,784 INFO  [Log] Testing Login Page 
+2015-10-28 10:13:49,773 INFO  [Log] Knowledgebase click 
+2015-10-28 10:13:49,773 INFO  [Log] Testing Login Page 
+2015-10-28 10:14:02,608 INFO  [Log] LearnLessonAgain click 
+2015-10-28 10:14:02,609 INFO  [Log] Testing Login Page 
+2015-10-28 10:14:17,471 INFO  [Log] LearnLessonAgain click 
+2015-10-28 10:14:17,478 INFO  [Log] Badges Page 
+2015-10-28 10:14:19,782 INFO  [Log] Badges click 
+2015-10-28 10:14:19,783 INFO  [Log] KbBadges Page 
+2015-10-28 10:14:26,210 INFO  [Log] KbBadges click 
+2015-10-28 10:14:26,211 INFO  [Log] QuizBadges Page 
+2015-10-28 10:14:32,699 INFO  [Log] QuizBadges click 
+2015-10-28 10:14:32,699 INFO  [Log] SonderBadges Page 
+2015-10-28 10:14:39,168 INFO  [Log] SonderBadges click 
+2015-10-28 10:14:39,169 INFO  [Log] VersteckteBadges Page 
+2015-10-28 10:14:45,755 INFO  [Log] VersteckteBadges click 
+2015-10-28 10:14:45,778 INFO  [Log] Score Page 
+2015-10-28 10:15:46,137 INFO  [Log] Score click 
+2015-10-28 10:15:46,138 INFO  [Log] Statistik  Page 
+2015-10-28 10:16:48,527 INFO  [Log] Statistik  click 
+2015-10-28 10:16:48,528 INFO  [Log] Rangliste  Page 
+2015-10-28 10:16:54,940 INFO  [Log] Rangliste click 
+2015-10-28 10:16:54,946 INFO  [Log] News Page 
+2015-10-28 10:17:00,271 INFO  [Log] News click 
+2015-10-28 10:17:00,277 INFO  [Log] Settings Page 
+2015-10-28 10:17:04,537 INFO  [Log] Setting click click 
+2015-10-28 10:17:04,537 INFO  [Log] Feedback  Page 
+2015-10-28 10:17:12,954 INFO  [Log] Feedback  click 
+2015-10-28 10:17:12,955 INFO  [Log] Support   Page 
+2015-10-28 10:17:25,456 INFO  [Log] Rangliste click 
+2015-10-28 10:17:31,869 INFO  [Log] logout Page 
+2015-10-28 10:17:31,875 INFO  [Log] Closing the Browser 
+2015-10-28 10:17:33,053 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 10:57:19,622 INFO  [Log] **************************************************************************************** 
+2015-10-28 10:57:19,623 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 10:57:19,623 INFO  [Log] **************************************************************************************** 
+2015-10-28 10:57:19,623 INFO  [Log] Loading config properties file 
+2015-10-28 10:57:19,623 INFO  [Log] New driver instantiated 
+2015-10-28 10:57:22,250 INFO  [Log] Launching Browser 
+2015-10-28 10:57:22,250 INFO  [Log] Opening URL 
+2015-10-28 10:57:38,587 INFO  [Log] Maximizing Browser 
+2015-10-28 10:57:38,741 INFO  [Log] Testing Login Page 
+2015-10-28 10:58:34,888 INFO  [Log] **************************************************************************************** 
+2015-10-28 10:58:34,888 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 10:58:34,888 INFO  [Log] **************************************************************************************** 
+2015-10-28 10:58:34,888 INFO  [Log] Loading config properties file 
+2015-10-28 10:58:34,888 INFO  [Log] New driver instantiated 
+2015-10-28 10:58:39,209 INFO  [Log] Launching Browser 
+2015-10-28 10:58:39,209 INFO  [Log] Opening URL 
+2015-10-28 10:58:57,929 INFO  [Log] Maximizing Browser 
+2015-10-28 10:58:58,087 INFO  [Log] Testing Login Page 
+2015-10-28 10:59:03,082 INFO  [Log] Not SignIN 
+2015-10-28 10:59:03,311 INFO  [Log] Closing the Browser 
+2015-10-28 10:59:05,183 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 10:59:20,275 INFO  [Log] **************************************************************************************** 
+2015-10-28 10:59:20,276 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 10:59:20,276 INFO  [Log] **************************************************************************************** 
+2015-10-28 10:59:20,276 INFO  [Log] Loading config properties file 
+2015-10-28 10:59:20,276 INFO  [Log] New driver instantiated 
+2015-10-28 10:59:23,873 INFO  [Log] Launching Browser 
+2015-10-28 10:59:23,873 INFO  [Log] Opening URL 
+2015-10-28 10:59:39,492 INFO  [Log] Maximizing Browser 
+2015-10-28 10:59:39,652 INFO  [Log] Testing Login Page 
+2015-10-28 10:59:40,449 INFO  [Log] Not SignIN 
+2015-10-28 10:59:40,491 INFO  [Log] Testing Login Page 
+2015-10-28 10:59:48,242 INFO  [Log] Knowledgebase not click 
+2015-10-28 10:59:48,244 INFO  [Log] Testing Login Page 
+2015-10-28 10:59:48,256 INFO  [Log] LearnLessonAgain not click 
+2015-10-28 10:59:48,257 INFO  [Log] Testing Login Page 
+2015-10-28 10:59:48,263 INFO  [Log] LearnLessonAgain not click 
+2015-10-28 10:59:48,307 INFO  [Log] Badges Page 
+2015-10-28 10:59:48,313 INFO  [Log] Badges not click 
+2015-10-28 10:59:48,314 INFO  [Log] KbBadges Page 
+2015-10-28 10:59:48,318 INFO  [Log] KbBadges not click 
+2015-10-28 10:59:48,319 INFO  [Log] QuizBadges Page 
+2015-10-28 10:59:48,323 INFO  [Log] QuizBadges not click 
+2015-10-28 10:59:48,325 INFO  [Log] SonderBadges Page 
+2015-10-28 10:59:48,329 INFO  [Log] SonderBadges not click 
+2015-10-28 10:59:48,331 INFO  [Log] VersteckteBadges Page 
+2015-10-28 10:59:48,333 INFO  [Log] VersteckteBadges not click 
+2015-10-28 10:59:48,541 INFO  [Log] Score Page 
+2015-10-28 10:59:48,545 INFO  [Log] Score not click 
+2015-10-28 10:59:48,546 INFO  [Log] Statistik  Page 
+2015-10-28 10:59:48,548 INFO  [Log] Statistik  not click 
+2015-10-28 10:59:48,549 INFO  [Log] Rangliste  Page 
+2015-10-28 10:59:48,552 INFO  [Log] Rangliste not click 
+2015-10-28 10:59:48,598 INFO  [Log] News Page 
+2015-10-28 10:59:48,601 INFO  [Log] News not click 
+2015-10-28 10:59:48,644 INFO  [Log] Settings Page 
+2015-10-28 10:59:48,647 INFO  [Log] Setting  not click 
+2015-10-28 10:59:48,647 INFO  [Log] Feedback  Page 
+2015-10-28 10:59:48,650 INFO  [Log] Feedback  not click 
+2015-10-28 10:59:48,651 INFO  [Log] Support   Page 
+2015-10-28 10:59:48,654 INFO  [Log] Rangliste not click 
+2015-10-28 10:59:48,777 INFO  [Log] Unable to logout 
+2015-10-28 10:59:48,830 INFO  [Log] Closing the Browser 
+2015-10-28 10:59:49,922 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 11:00:41,515 INFO  [Log] Testing Login Page 
+2015-10-28 11:00:43,522 INFO  [Log] Knowledgebase not click 
+2015-10-28 11:00:43,526 INFO  [Log] Testing Login Page 
+2015-10-28 11:00:45,535 INFO  [Log] LearnLessonAgain not click 
+2015-10-28 11:00:45,539 INFO  [Log] Testing Login Page 
+2015-10-28 11:00:47,547 INFO  [Log] LearnLessonAgain not click 
+2015-10-28 11:00:47,577 INFO  [Log] Badges Page 
+2015-10-28 11:00:49,584 INFO  [Log] Badges not click 
+2015-10-28 11:00:49,587 INFO  [Log] KbBadges Page 
+2015-10-28 11:00:51,600 INFO  [Log] KbBadges not click 
+2015-10-28 11:00:51,604 INFO  [Log] QuizBadges Page 
+2015-10-28 11:00:53,613 INFO  [Log] QuizBadges not click 
+2015-10-28 11:00:53,616 INFO  [Log] SonderBadges Page 
+2015-10-28 11:00:55,626 INFO  [Log] SonderBadges not click 
+2015-10-28 11:00:55,630 INFO  [Log] VersteckteBadges Page 
+2015-10-28 11:00:57,639 INFO  [Log] VersteckteBadges not click 
+2015-10-28 11:00:57,684 INFO  [Log] Score Page 
+2015-10-28 11:00:59,692 INFO  [Log] Score not click 
+2015-10-28 11:00:59,695 INFO  [Log] Statistik  Page 
+2015-10-28 11:01:01,704 INFO  [Log] Statistik  not click 
+2015-10-28 11:01:01,732 INFO  [Log] Rangliste  Page 
+2015-10-28 11:01:03,738 INFO  [Log] Rangliste not click 
+2015-10-28 11:01:03,767 INFO  [Log] News Page 
+2015-10-28 11:01:05,775 INFO  [Log] News not click 
+2015-10-28 11:01:05,799 INFO  [Log] Settings Page 
+2015-10-28 11:01:07,807 INFO  [Log] Setting  not click 
+2015-10-28 11:01:07,810 INFO  [Log] Feedback  Page 
+2015-10-28 11:01:09,819 INFO  [Log] Feedback  not click 
+2015-10-28 11:01:09,822 INFO  [Log] Support   Page 
+2015-10-28 11:01:11,841 INFO  [Log] Rangliste not click 
+2015-10-28 11:01:13,879 INFO  [Log] Unable to logout 
+2015-10-28 11:01:13,901 INFO  [Log] Closing the Browser 
+2015-10-28 11:01:15,013 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 11:02:43,238 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:02:43,239 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 11:02:43,239 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:02:43,239 INFO  [Log] Loading config properties file 
+2015-10-28 11:02:43,239 INFO  [Log] New driver instantiated 
+2015-10-28 11:02:45,069 INFO  [Log] Launching Browser 
+2015-10-28 11:02:45,069 INFO  [Log] Opening URL 
+2015-10-28 11:03:01,808 INFO  [Log] Maximizing Browser 
+2015-10-28 11:03:01,968 INFO  [Log] Testing Login Page 
+2015-10-28 11:03:02,390 INFO  [Log] Not SignIN 
+2015-10-28 11:03:02,410 INFO  [Log] Closing the Browser 
+2015-10-28 11:03:03,627 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 11:03:51,391 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:03:51,392 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 11:03:51,392 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:03:51,392 INFO  [Log] Loading config properties file 
+2015-10-28 11:03:51,392 INFO  [Log] New driver instantiated 
+2015-10-28 11:03:53,261 INFO  [Log] Launching Browser 
+2015-10-28 11:03:53,261 INFO  [Log] Opening URL 
+2015-10-28 11:04:08,745 INFO  [Log] Maximizing Browser 
+2015-10-28 11:04:08,902 INFO  [Log] Testing Login Page 
+2015-10-28 11:04:09,338 INFO  [Log] Not SignIN 
+2015-10-28 11:04:09,355 INFO  [Log] Testing Login Page 
+2015-10-28 11:04:19,757 INFO  [Log] Knowledgebase not click 
+2015-10-28 11:04:19,762 INFO  [Log] Testing Login Page 
+2015-10-28 11:04:29,797 INFO  [Log] LearnLessonAgain not click 
+2015-10-28 11:04:29,802 INFO  [Log] Testing Login Page 
+2015-10-28 11:04:39,827 INFO  [Log] LearnLessonAgain not click 
+2015-10-28 11:04:39,857 INFO  [Log] Badges Page 
+2015-10-28 11:04:49,928 INFO  [Log] Badges not click 
+2015-10-28 11:04:49,931 INFO  [Log] KbBadges Page 
+2015-10-28 11:04:59,993 INFO  [Log] KbBadges not click 
+2015-10-28 11:04:59,996 INFO  [Log] QuizBadges Page 
+2015-10-28 11:05:10,010 INFO  [Log] QuizBadges not click 
+2015-10-28 11:05:10,011 INFO  [Log] SonderBadges Page 
+2015-10-28 11:05:20,066 INFO  [Log] SonderBadges not click 
+2015-10-28 11:05:20,069 INFO  [Log] VersteckteBadges Page 
+2015-10-28 11:05:30,089 INFO  [Log] VersteckteBadges not click 
+2015-10-28 11:05:30,120 INFO  [Log] Score Page 
+2015-10-28 11:05:40,133 INFO  [Log] Score not click 
+2015-10-28 11:05:40,137 INFO  [Log] Statistik  Page 
+2015-10-28 11:05:43,568 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:05:43,569 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 11:05:43,569 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:05:43,569 INFO  [Log] Loading config properties file 
+2015-10-28 11:05:43,569 INFO  [Log] New driver instantiated 
+2015-10-28 11:05:45,481 INFO  [Log] Launching Browser 
+2015-10-28 11:05:45,481 INFO  [Log] Opening URL 
+2015-10-28 11:05:46,370 INFO  [Log] Statistik  not click 
+2015-10-28 11:05:46,372 INFO  [Log] Rangliste  Page 
+2015-10-28 11:05:48,383 INFO  [Log] Rangliste not click 
+2015-10-28 11:05:48,412 INFO  [Log] News Page 
+2015-10-28 11:05:50,437 INFO  [Log] News not click 
+2015-10-28 11:05:50,462 INFO  [Log] Settings Page 
+2015-10-28 11:05:52,470 INFO  [Log] Setting  not click 
+2015-10-28 11:05:52,474 INFO  [Log] Feedback  Page 
+2015-10-28 11:05:54,478 INFO  [Log] Feedback  not click 
+2015-10-28 11:05:54,479 INFO  [Log] Support   Page 
+2015-10-28 11:05:56,486 INFO  [Log] Rangliste not click 
+2015-10-28 11:05:58,516 INFO  [Log] Unable to logout 
+2015-10-28 11:05:58,539 INFO  [Log] Closing the Browser 
+2015-10-28 11:05:59,651 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 11:06:01,215 INFO  [Log] Maximizing Browser 
+2015-10-28 11:06:01,372 INFO  [Log] Testing Login Page 
+2015-10-28 11:06:01,687 INFO  [Log] Not SignIN 
+2015-10-28 11:06:01,710 INFO  [Log] Closing the Browser 
+2015-10-28 11:06:02,964 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 11:06:13,496 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:06:13,496 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 11:06:13,496 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:06:13,496 INFO  [Log] Loading config properties file 
+2015-10-28 11:06:13,496 INFO  [Log] New driver instantiated 
+2015-10-28 11:06:15,342 INFO  [Log] Launching Browser 
+2015-10-28 11:06:15,342 INFO  [Log] Opening URL 
+2015-10-28 11:06:30,653 INFO  [Log] Maximizing Browser 
+2015-10-28 11:06:30,812 INFO  [Log] Testing Login Page 
+2015-10-28 11:06:31,110 INFO  [Log] Not SignIN 
+2015-10-28 11:06:31,131 INFO  [Log] Testing Login Page 
+2015-10-28 11:06:41,168 INFO  [Log] Knowledgebase not click 
+2015-10-28 11:06:41,175 INFO  [Log] Testing Login Page 
+2015-10-28 11:06:51,252 INFO  [Log] LearnLessonAgain not click 
+2015-10-28 11:06:51,256 INFO  [Log] Testing Login Page 
+2015-10-28 11:07:01,273 INFO  [Log] LearnLessonAgain not click 
+2015-10-28 11:07:01,304 INFO  [Log] Badges Page 
+2015-10-28 11:07:11,347 INFO  [Log] Badges not click 
+2015-10-28 11:07:11,348 INFO  [Log] KbBadges Page 
+2015-10-28 11:07:21,387 INFO  [Log] KbBadges not click 
+2015-10-28 11:07:21,391 INFO  [Log] QuizBadges Page 
+2015-10-28 11:07:31,446 INFO  [Log] QuizBadges not click 
+2015-10-28 11:07:31,450 INFO  [Log] SonderBadges Page 
+2015-10-28 11:07:41,500 INFO  [Log] SonderBadges not click 
+2015-10-28 11:07:41,503 INFO  [Log] VersteckteBadges Page 
+2015-10-28 11:07:51,534 INFO  [Log] VersteckteBadges not click 
+2015-10-28 11:07:51,570 INFO  [Log] Score Page 
+2015-10-28 11:08:01,614 INFO  [Log] Score not click 
+2015-10-28 11:08:01,616 INFO  [Log] Statistik  Page 
+2015-10-28 11:08:11,655 INFO  [Log] Statistik  not click 
+2015-10-28 11:08:11,658 INFO  [Log] Rangliste  Page 
+2015-10-28 11:08:21,675 INFO  [Log] Rangliste not click 
+2015-10-28 11:08:21,707 INFO  [Log] News Page 
+2015-10-28 11:08:31,763 INFO  [Log] News not click 
+2015-10-28 11:08:31,789 INFO  [Log] Settings Page 
+2015-10-28 11:08:41,859 INFO  [Log] Setting  not click 
+2015-10-28 11:08:41,863 INFO  [Log] Feedback  Page 
+2015-10-28 11:08:51,889 INFO  [Log] Feedback  not click 
+2015-10-28 11:08:51,893 INFO  [Log] Support   Page 
+2015-10-28 11:09:01,943 INFO  [Log] Rangliste not click 
+2015-10-28 11:09:07,072 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:09:07,072 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 11:09:07,072 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:09:07,072 INFO  [Log] Loading config properties file 
+2015-10-28 11:09:07,072 INFO  [Log] New driver instantiated 
+2015-10-28 11:09:08,923 INFO  [Log] Launching Browser 
+2015-10-28 11:09:08,923 INFO  [Log] Opening URL 
+2015-10-28 11:09:12,025 INFO  [Log] Unable to logout 
+2015-10-28 11:09:12,039 INFO  [Log] Closing the Browser 
+2015-10-28 11:09:13,277 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 11:09:24,105 INFO  [Log] Maximizing Browser 
+2015-10-28 11:09:24,262 INFO  [Log] Testing Login Page 
+2015-10-28 11:09:24,556 INFO  [Log] Not SignIN 
+2015-10-28 11:09:24,574 INFO  [Log] Closing the Browser 
+2015-10-28 11:09:25,773 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 11:10:12,372 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:10:12,372 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 11:10:12,372 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:10:12,372 INFO  [Log] Loading config properties file 
+2015-10-28 11:10:12,372 INFO  [Log] New driver instantiated 
+2015-10-28 11:10:14,232 INFO  [Log] Launching Browser 
+2015-10-28 11:10:14,232 INFO  [Log] Opening URL 
+2015-10-28 11:10:29,827 INFO  [Log] Maximizing Browser 
+2015-10-28 11:10:29,992 INFO  [Log] Testing Login Page 
+2015-10-28 11:10:30,314 INFO  [Log] Not SignIN 
+2015-10-28 11:10:30,332 INFO  [Log] Testing Login Page 
+2015-10-28 11:10:36,924 INFO  [Log] Knowledgebase not click 
+2015-10-28 11:10:36,927 INFO  [Log] Testing Login Page 
+2015-10-28 11:10:36,935 INFO  [Log] LearnLessonAgain not click 
+2015-10-28 11:10:36,937 INFO  [Log] Testing Login Page 
+2015-10-28 11:10:36,941 INFO  [Log] LearnLessonAgain not click 
+2015-10-28 11:10:36,960 INFO  [Log] Badges Page 
+2015-10-28 11:10:36,964 INFO  [Log] Badges not click 
+2015-10-28 11:10:36,965 INFO  [Log] KbBadges Page 
+2015-10-28 11:10:36,968 INFO  [Log] KbBadges not click 
+2015-10-28 11:10:36,969 INFO  [Log] QuizBadges Page 
+2015-10-28 11:10:36,984 INFO  [Log] QuizBadges not click 
+2015-10-28 11:10:36,988 INFO  [Log] SonderBadges Page 
+2015-10-28 11:10:36,995 INFO  [Log] SonderBadges not click 
+2015-10-28 11:10:36,996 INFO  [Log] VersteckteBadges Page 
+2015-10-28 11:10:37,003 INFO  [Log] VersteckteBadges not click 
+2015-10-28 11:10:37,051 INFO  [Log] Score Page 
+2015-10-28 11:10:37,058 INFO  [Log] Score not click 
+2015-10-28 11:10:37,059 INFO  [Log] Statistik  Page 
+2015-10-28 11:10:37,063 INFO  [Log] Statistik  not click 
+2015-10-28 11:10:37,064 INFO  [Log] Rangliste  Page 
+2015-10-28 11:10:37,067 INFO  [Log] Rangliste not click 
+2015-10-28 11:10:37,081 INFO  [Log] News Page 
+2015-10-28 11:10:37,089 INFO  [Log] News not click 
+2015-10-28 11:10:37,097 INFO  [Log] Settings Page 
+2015-10-28 11:10:37,103 INFO  [Log] Setting  not click 
+2015-10-28 11:10:37,118 INFO  [Log] Feedback  Page 
+2015-10-28 11:10:37,122 INFO  [Log] Feedback  not click 
+2015-10-28 11:10:37,123 INFO  [Log] Support   Page 
+2015-10-28 11:10:37,126 INFO  [Log] Rangliste not click 
+2015-10-28 11:10:37,141 INFO  [Log] Unable to logout 
+2015-10-28 11:10:37,152 INFO  [Log] Closing the Browser 
+2015-10-28 11:10:38,243 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 11:18:47,288 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:18:47,288 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 11:18:47,288 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:18:47,288 INFO  [Log] Loading config properties file 
+2015-10-28 11:18:47,288 INFO  [Log] New driver instantiated 
+2015-10-28 11:18:49,151 INFO  [Log] Launching Browser 
+2015-10-28 11:18:49,151 INFO  [Log] Opening URL 
+2015-10-28 11:19:06,544 INFO  [Log] Maximizing Browser 
+2015-10-28 11:19:06,709 INFO  [Log] Testing Login Page 
+2015-10-28 11:19:07,022 INFO  [Log] Not SignIN 
+2015-10-28 11:19:07,040 INFO  [Log] Testing Login Page 
+2015-10-28 11:19:17,069 INFO  [Log] Knowledgebase not click 
+2015-10-28 11:19:17,074 INFO  [Log] Testing Login Page 
+2015-10-28 11:19:21,871 INFO  [Log] LearnLessonAgain not click 
+2015-10-28 11:19:21,873 INFO  [Log] Testing Login Page 
+2015-10-28 11:19:21,885 INFO  [Log] LearnLessonAgain not click 
+2015-10-28 11:19:21,916 INFO  [Log] Badges Page 
+2015-10-28 11:19:21,921 INFO  [Log] Badges not click 
+2015-10-28 11:19:21,922 INFO  [Log] KbBadges Page 
+2015-10-28 11:19:21,924 INFO  [Log] KbBadges not click 
+2015-10-28 11:19:21,925 INFO  [Log] QuizBadges Page 
+2015-10-28 11:19:21,927 INFO  [Log] QuizBadges not click 
+2015-10-28 11:19:21,928 INFO  [Log] SonderBadges Page 
+2015-10-28 11:19:21,932 INFO  [Log] SonderBadges not click 
+2015-10-28 11:19:21,934 INFO  [Log] VersteckteBadges Page 
+2015-10-28 11:19:21,940 INFO  [Log] VersteckteBadges not click 
+2015-10-28 11:19:21,976 INFO  [Log] Score Page 
+2015-10-28 11:19:21,982 INFO  [Log] Score not click 
+2015-10-28 11:19:21,984 INFO  [Log] Statistik  Page 
+2015-10-28 11:19:21,987 INFO  [Log] Statistik  not click 
+2015-10-28 11:19:21,990 INFO  [Log] Rangliste  Page 
+2015-10-28 11:19:21,999 INFO  [Log] Rangliste not click 
+2015-10-28 11:19:22,009 INFO  [Log] News Page 
+2015-10-28 11:19:22,013 INFO  [Log] News not click 
+2015-10-28 11:19:22,025 INFO  [Log] Settings Page 
+2015-10-28 11:19:22,057 INFO  [Log] Setting  not click 
+2015-10-28 11:19:22,059 INFO  [Log] Feedback  Page 
+2015-10-28 11:19:22,070 INFO  [Log] Feedback  not click 
+2015-10-28 11:19:22,073 INFO  [Log] Support   Page 
+2015-10-28 11:19:22,078 INFO  [Log] Rangliste not click 
+2015-10-28 11:19:22,095 INFO  [Log] Unable to logout 
+2015-10-28 11:19:22,104 INFO  [Log] Closing the Browser 
+2015-10-28 11:19:23,197 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 11:26:40,478 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:26:40,478 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 11:26:40,478 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:26:40,478 INFO  [Log] Loading config properties file 
+2015-10-28 11:26:40,478 INFO  [Log] New driver instantiated 
+2015-10-28 11:26:42,337 INFO  [Log] Launching Browser 
+2015-10-28 11:26:42,337 INFO  [Log] Opening URL 
+2015-10-28 11:26:58,594 INFO  [Log] Maximizing Browser 
+2015-10-28 11:26:58,755 INFO  [Log] Testing Login Page 
+2015-10-28 11:26:59,070 INFO  [Log] Not SignIN 
+2015-10-28 11:26:59,093 INFO  [Log] Testing Login Page 
+2015-10-28 11:27:02,447 INFO  [Log] Knowledgebase not click 
+2015-10-28 11:27:02,450 INFO  [Log] Testing Login Page 
+2015-10-28 11:27:02,457 INFO  [Log] LearnLessonAgain not click 
+2015-10-28 11:27:02,458 INFO  [Log] Testing Login Page 
+2015-10-28 11:27:02,463 INFO  [Log] LearnLessonAgain not click 
+2015-10-28 11:27:02,486 INFO  [Log] Badges Page 
+2015-10-28 11:27:02,489 INFO  [Log] Badges not click 
+2015-10-28 11:27:02,491 INFO  [Log] KbBadges Page 
+2015-10-28 11:27:02,494 INFO  [Log] KbBadges not click 
+2015-10-28 11:27:02,495 INFO  [Log] QuizBadges Page 
+2015-10-28 11:27:02,499 INFO  [Log] QuizBadges not click 
+2015-10-28 11:27:02,500 INFO  [Log] SonderBadges Page 
+2015-10-28 11:27:02,505 INFO  [Log] SonderBadges not click 
+2015-10-28 11:27:02,507 INFO  [Log] VersteckteBadges Page 
+2015-10-28 11:27:02,515 INFO  [Log] VersteckteBadges not click 
+2015-10-28 11:27:02,544 INFO  [Log] Score Page 
+2015-10-28 11:27:02,547 INFO  [Log] Score not click 
+2015-10-28 11:27:02,548 INFO  [Log] Statistik  Page 
+2015-10-28 11:27:02,551 INFO  [Log] Statistik  not click 
+2015-10-28 11:27:02,552 INFO  [Log] Rangliste  Page 
+2015-10-28 11:27:02,555 INFO  [Log] Rangliste not click 
+2015-10-28 11:27:02,564 INFO  [Log] News Page 
+2015-10-28 11:27:02,567 INFO  [Log] News not click 
+2015-10-28 11:27:02,579 INFO  [Log] Settings Page 
+2015-10-28 11:27:02,616 INFO  [Log] Setting  not click 
+2015-10-28 11:27:02,618 INFO  [Log] Feedback  Page 
+2015-10-28 11:27:02,623 INFO  [Log] Feedback  not click 
+2015-10-28 11:27:02,624 INFO  [Log] Support   Page 
+2015-10-28 11:27:02,629 INFO  [Log] Rangliste not click 
+2015-10-28 11:27:02,646 INFO  [Log] Unable to logout 
+2015-10-28 11:27:02,656 INFO  [Log] Closing the Browser 
+2015-10-28 11:27:03,806 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 11:38:00,919 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:38:00,919 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 11:38:00,919 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:38:00,919 INFO  [Log] Loading config properties file 
+2015-10-28 11:38:00,919 INFO  [Log] New driver instantiated 
+2015-10-28 11:38:02,708 INFO  [Log] Launching Browser 
+2015-10-28 11:38:02,708 INFO  [Log] Opening URL 
+2015-10-28 11:38:18,853 INFO  [Log] Maximizing Browser 
+2015-10-28 11:38:19,007 INFO  [Log] Testing Login Page 
+2015-10-28 11:41:19,573 INFO  [Log] SignIN Login Page 
+2015-10-28 11:41:19,595 INFO  [Log] Testing Login Page 
+2015-10-28 11:41:36,620 INFO  [Log] Knowledgebase click 
+2015-10-28 11:41:36,621 INFO  [Log] Testing Login Page 
+2015-10-28 11:41:49,442 INFO  [Log] LearnLessonAgain click 
+2015-10-28 11:41:49,443 INFO  [Log] Testing Login Page 
+2015-10-28 11:42:04,342 INFO  [Log] LearnLessonAgain click 
+2015-10-28 11:42:04,350 INFO  [Log] Badges Page 
+2015-10-28 11:42:06,649 INFO  [Log] Badges click 
+2015-10-28 11:42:06,649 INFO  [Log] KbBadges Page 
+2015-10-28 11:42:13,184 INFO  [Log] KbBadges click 
+2015-10-28 11:42:13,184 INFO  [Log] QuizBadges Page 
+2015-10-28 11:42:19,707 INFO  [Log] QuizBadges click 
+2015-10-28 11:42:19,707 INFO  [Log] SonderBadges Page 
+2015-10-28 11:42:26,184 INFO  [Log] SonderBadges click 
+2015-10-28 11:42:26,185 INFO  [Log] VersteckteBadges Page 
+2015-10-28 11:42:32,631 INFO  [Log] VersteckteBadges click 
+2015-10-28 11:42:32,638 INFO  [Log] Premium Page 
+2015-10-28 11:42:58,380 INFO  [Log] Premium click 
+2015-10-28 11:42:58,380 INFO  [Log] Premium not click 
+2015-10-28 11:42:58,390 INFO  [Log] Score Page 
+2015-10-28 11:44:00,443 INFO  [Log] Score not click 
+2015-10-28 11:44:00,444 INFO  [Log] Statistik  Page 
+2015-10-28 11:44:02,450 INFO  [Log] Statistik  not click 
+2015-10-28 11:44:02,452 INFO  [Log] Rangliste  Page 
+2015-10-28 11:44:04,460 INFO  [Log] Rangliste not click 
+2015-10-28 11:44:04,492 INFO  [Log] News Page 
+2015-10-28 11:44:06,497 INFO  [Log] News not click 
+2015-10-28 11:44:06,520 INFO  [Log] Settings Page 
+2015-10-28 11:44:08,527 INFO  [Log] Setting  not click 
+2015-10-28 11:44:08,529 INFO  [Log] Feedback  Page 
+2015-10-28 11:44:10,536 INFO  [Log] Feedback  not click 
+2015-10-28 11:44:10,538 INFO  [Log] Support   Page 
+2015-10-28 11:44:12,544 INFO  [Log] Rangliste not click 
+2015-10-28 11:44:14,581 INFO  [Log] Unable to logout 
+2015-10-28 11:44:14,602 INFO  [Log] Closing the Browser 
+2015-10-28 11:44:15,699 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 11:44:24,525 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:44:24,525 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 11:44:24,525 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:44:24,525 INFO  [Log] Loading config properties file 
+2015-10-28 11:44:24,525 INFO  [Log] New driver instantiated 
+2015-10-28 11:44:26,297 INFO  [Log] Launching Browser 
+2015-10-28 11:44:26,297 INFO  [Log] Opening URL 
+2015-10-28 11:44:46,645 INFO  [Log] Maximizing Browser 
+2015-10-28 11:44:46,795 INFO  [Log] Testing Login Page 
+2015-10-28 11:47:47,331 INFO  [Log] SignIN Login Page 
+2015-10-28 11:47:47,345 INFO  [Log] Testing Login Page 
+2015-10-28 11:48:04,337 INFO  [Log] Knowledgebase click 
+2015-10-28 11:48:04,337 INFO  [Log] Testing Login Page 
+2015-10-28 11:48:17,229 INFO  [Log] LearnLessonAgain click 
+2015-10-28 11:48:17,229 INFO  [Log] Testing Login Page 
+2015-10-28 11:48:32,862 INFO  [Log] LearnLessonAgain click 
+2015-10-28 11:48:32,869 INFO  [Log] Badges Page 
+2015-10-28 11:48:35,179 INFO  [Log] Badges click 
+2015-10-28 11:48:35,180 INFO  [Log] KbBadges Page 
+2015-10-28 11:48:41,695 INFO  [Log] KbBadges click 
+2015-10-28 11:48:41,695 INFO  [Log] QuizBadges Page 
+2015-10-28 11:48:48,167 INFO  [Log] QuizBadges click 
+2015-10-28 11:48:48,167 INFO  [Log] SonderBadges Page 
+2015-10-28 11:48:54,644 INFO  [Log] SonderBadges click 
+2015-10-28 11:48:54,644 INFO  [Log] VersteckteBadges Page 
+2015-10-28 11:49:01,074 INFO  [Log] VersteckteBadges click 
+2015-10-28 11:49:01,086 INFO  [Log] Score Page 
+2015-10-28 11:50:01,412 INFO  [Log] Score click 
+2015-10-28 11:50:01,413 INFO  [Log] Statistik  Page 
+2015-10-28 11:51:03,801 INFO  [Log] Statistik  click 
+2015-10-28 11:51:03,801 INFO  [Log] Rangliste  Page 
+2015-10-28 11:51:10,227 INFO  [Log] Rangliste click 
+2015-10-28 11:51:10,234 INFO  [Log] News Page 
+2015-10-28 11:51:15,615 INFO  [Log] News click 
+2015-10-28 11:51:15,621 INFO  [Log] Settings Page 
+2015-10-28 11:51:19,925 INFO  [Log] Setting click click 
+2015-10-28 11:51:19,925 INFO  [Log] Feedback  Page 
+2015-10-28 11:51:28,337 INFO  [Log] Feedback  click 
+2015-10-28 11:51:28,337 INFO  [Log] Support   Page 
+2015-10-28 11:51:40,888 INFO  [Log] Rangliste click 
+2015-10-28 11:51:47,406 INFO  [Log] logout Page 
+2015-10-28 11:51:47,418 INFO  [Log] Closing the Browser 
+2015-10-28 11:51:48,626 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 11:53:26,865 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:53:26,866 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 11:53:26,866 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:53:26,866 INFO  [Log] Loading config properties file 
+2015-10-28 11:53:26,866 INFO  [Log] New driver instantiated 
+2015-10-28 11:53:28,186 INFO  [Log] Launching Browser 
+2015-10-28 11:53:28,186 INFO  [Log] Opening URL 
+2015-10-28 11:53:43,576 INFO  [Log] Maximizing Browser 
+2015-10-28 11:53:43,735 INFO  [Log] Testing Login Page 
+2015-10-28 11:53:44,075 INFO  [Log] Not SignIN 
+2015-10-28 11:53:44,096 INFO  [Log] Closing the Browser 
+2015-10-28 11:53:45,307 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 11:55:44,963 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:55:44,963 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 11:55:44,963 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:55:44,963 INFO  [Log] Loading config properties file 
+2015-10-28 11:55:44,963 INFO  [Log] New driver instantiated 
+2015-10-28 11:55:46,815 INFO  [Log] Launching Browser 
+2015-10-28 11:55:46,815 INFO  [Log] Opening URL 
+2015-10-28 11:56:02,887 INFO  [Log] Maximizing Browser 
+2015-10-28 11:56:03,068 INFO  [Log] Testing Login Page 
+2015-10-28 11:56:03,970 INFO  [Log] Not SignIN 
+2015-10-28 11:56:03,988 INFO  [Log] Closing the Browser 
+2015-10-28 11:56:05,181 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 11:58:00,328 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:58:00,328 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 11:58:00,328 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:58:00,328 INFO  [Log] Loading config properties file 
+2015-10-28 11:58:00,328 INFO  [Log] New driver instantiated 
+2015-10-28 11:58:02,143 INFO  [Log] Launching Browser 
+2015-10-28 11:58:02,143 INFO  [Log] Opening URL 
+2015-10-28 11:58:17,211 INFO  [Log] Maximizing Browser 
+2015-10-28 11:58:17,380 INFO  [Log] Testing Login Page 
+2015-10-28 11:58:18,303 INFO  [Log] Not SignIN 
+2015-10-28 11:58:18,321 INFO  [Log] Closing the Browser 
+2015-10-28 11:58:19,518 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 11:59:22,911 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:59:22,911 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 11:59:22,911 INFO  [Log] **************************************************************************************** 
+2015-10-28 11:59:22,911 INFO  [Log] Loading config properties file 
+2015-10-28 11:59:22,911 INFO  [Log] New driver instantiated 
+2015-10-28 11:59:24,744 INFO  [Log] Launching Browser 
+2015-10-28 11:59:24,744 INFO  [Log] Opening URL 
+2015-10-28 11:59:40,653 INFO  [Log] Maximizing Browser 
+2015-10-28 11:59:40,808 INFO  [Log] Testing Login Page 
+2015-10-28 11:59:41,683 INFO  [Log] Not SignIN 
+2015-10-28 11:59:41,710 INFO  [Log] Testing Login Page 
+2015-10-28 11:59:51,721 INFO  [Log] Knowledgebase not click 
+2015-10-28 11:59:51,724 INFO  [Log] Testing Login Page 
+2015-10-28 12:00:01,796 INFO  [Log] LearnLessonAgain not click 
+2015-10-28 12:00:01,800 INFO  [Log] Testing Login Page 
+2015-10-28 12:00:52,585 INFO  [Log] **************************************************************************************** 
+2015-10-28 12:00:52,586 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 12:00:52,586 INFO  [Log] **************************************************************************************** 
+2015-10-28 12:00:52,586 INFO  [Log] Loading config properties file 
+2015-10-28 12:00:52,586 INFO  [Log] New driver instantiated 
+2015-10-28 12:00:54,421 INFO  [Log] Launching Browser 
+2015-10-28 12:00:54,421 INFO  [Log] Opening URL 
+2015-10-28 12:01:09,804 INFO  [Log] Maximizing Browser 
+2015-10-28 12:01:09,960 INFO  [Log] Testing Login Page 
+2015-10-28 12:01:10,871 INFO  [Log] Not SignIN 
+2015-10-28 12:01:10,899 INFO  [Log] Testing Login Page 
+2015-10-28 12:01:20,931 INFO  [Log] Knowledgebase not click 
+2015-10-28 12:01:20,933 INFO  [Log] Testing Login Page 
+2015-10-28 12:01:31,009 INFO  [Log] LearnLessonAgain not click 
+2015-10-28 12:01:31,012 INFO  [Log] Testing Login Page 
+2015-10-28 12:01:41,029 INFO  [Log] LearnLessonAgain not click 
+2015-10-28 12:01:41,061 INFO  [Log] Badges Page 
+2015-10-28 12:01:51,074 INFO  [Log] Badges not click 
+2015-10-28 12:01:51,078 INFO  [Log] KbBadges Page 
+2015-10-28 12:02:01,124 INFO  [Log] KbBadges not click 
+2015-10-28 12:02:01,128 INFO  [Log] QuizBadges Page 
+2015-10-28 12:02:11,142 INFO  [Log] QuizBadges not click 
+2015-10-28 12:02:11,146 INFO  [Log] SonderBadges Page 
+2015-10-28 12:02:21,210 INFO  [Log] SonderBadges not click 
+2015-10-28 12:02:21,213 INFO  [Log] VersteckteBadges Page 
+2015-10-28 12:02:31,282 INFO  [Log] VersteckteBadges not click 
+2015-10-28 12:02:31,315 INFO  [Log] Score Page 
+2015-10-28 12:02:41,354 INFO  [Log] Score not click 
+2015-10-28 12:02:41,356 INFO  [Log] Statistik  Page 
+2015-10-28 12:02:51,413 INFO  [Log] Statistik  not click 
+2015-10-28 12:02:51,415 INFO  [Log] Rangliste  Page 
+2015-10-28 12:03:01,475 INFO  [Log] Rangliste not click 
+2015-10-28 12:03:01,505 INFO  [Log] News Page 
+2015-10-28 12:03:11,564 INFO  [Log] News not click 
+2015-10-28 12:03:11,586 INFO  [Log] Settings Page 
+2015-10-28 12:03:21,605 INFO  [Log] Setting  not click 
+2015-10-28 12:03:21,609 INFO  [Log] Feedback  Page 
+2015-10-28 12:03:31,631 INFO  [Log] Feedback  not click 
+2015-10-28 12:03:31,635 INFO  [Log] Support   Page 
+2015-10-28 12:03:41,676 INFO  [Log] Rangliste not click 
+2015-10-28 12:03:51,729 INFO  [Log] Unable to logout 
+2015-10-28 12:03:51,750 INFO  [Log] Closing the Browser 
+2015-10-28 12:03:53,028 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 12:08:43,126 INFO  [Log] **************************************************************************************** 
+2015-10-28 12:08:43,127 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 12:08:43,127 INFO  [Log] **************************************************************************************** 
+2015-10-28 12:08:43,127 INFO  [Log] Loading config properties file 
+2015-10-28 12:08:43,127 INFO  [Log] New driver instantiated 
+2015-10-28 12:08:45,216 INFO  [Log] Launching Browser 
+2015-10-28 12:08:45,216 INFO  [Log] Opening URL 
+2015-10-28 12:09:00,847 INFO  [Log] Maximizing Browser 
+2015-10-28 12:09:01,006 INFO  [Log] Testing Login Page 
+2015-10-28 12:09:01,861 INFO  [Log] Not SignIN 
+2015-10-28 12:09:01,891 INFO  [Log] Closing the Browser 
+2015-10-28 12:09:03,167 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 12:09:45,581 INFO  [Log] **************************************************************************************** 
+2015-10-28 12:09:45,581 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 12:09:45,581 INFO  [Log] **************************************************************************************** 
+2015-10-28 12:09:45,581 INFO  [Log] Loading config properties file 
+2015-10-28 12:09:45,581 INFO  [Log] New driver instantiated 
+2015-10-28 12:09:48,408 INFO  [Log] Launching Browser 
+2015-10-28 12:09:48,408 INFO  [Log] Opening URL 
+2015-10-28 12:10:03,569 INFO  [Log] Maximizing Browser 
+2015-10-28 12:10:03,739 INFO  [Log] Testing Login Page 
+2015-10-28 12:10:04,630 INFO  [Log] Not SignIN 
+2015-10-28 12:10:04,648 INFO  [Log] Closing the Browser 
+2015-10-28 12:10:05,909 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 12:11:15,091 INFO  [Log] **************************************************************************************** 
+2015-10-28 12:11:15,092 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 12:11:15,092 INFO  [Log] **************************************************************************************** 
+2015-10-28 12:11:15,092 INFO  [Log] Loading config properties file 
+2015-10-28 12:11:15,092 INFO  [Log] New driver instantiated 
+2015-10-28 12:11:16,984 INFO  [Log] Launching Browser 
+2015-10-28 12:11:16,984 INFO  [Log] Opening URL 
+2015-10-28 12:11:33,221 INFO  [Log] Maximizing Browser 
+2015-10-28 12:11:33,375 INFO  [Log] Testing Login Page 
+2015-10-28 12:11:33,643 INFO  [Log] Not SignIN 
+2015-10-28 12:11:33,662 INFO  [Log] Closing the Browser 
+2015-10-28 12:11:34,868 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-28 12:11:53,293 INFO  [Log] **************************************************************************************** 
+2015-10-28 12:11:53,294 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-28 12:11:53,294 INFO  [Log] **************************************************************************************** 
+2015-10-28 12:11:53,294 INFO  [Log] Loading config properties file 
+2015-10-28 12:11:53,294 INFO  [Log] New driver instantiated 
+2015-10-28 12:11:55,126 INFO  [Log] Launching Browser 
+2015-10-28 12:11:55,126 INFO  [Log] Opening URL 
+2015-10-28 12:12:10,779 INFO  [Log] Maximizing Browser 
+2015-10-28 12:12:10,935 INFO  [Log] Testing Login Page 
+2015-10-28 12:12:11,203 INFO  [Log] Not SignIN 
+2015-10-28 12:12:11,228 INFO  [Log] Closing the Browser 
+2015-10-28 12:12:12,426 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-29 11:09:08,279 INFO  [Log] **************************************************************************************** 
+2015-10-29 11:09:08,279 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-29 11:09:08,279 INFO  [Log] **************************************************************************************** 
+2015-10-29 11:09:08,279 INFO  [Log] Loading config properties file 
+2015-10-29 11:09:08,279 INFO  [Log] New driver instantiated 
+2015-10-29 11:09:11,797 INFO  [Log] Launching Browser 
+2015-10-29 11:09:11,797 INFO  [Log] Opening URL 
+2015-10-29 11:11:22,654 INFO  [Log] Maximizing Browser 
+2015-10-29 11:11:22,816 INFO  [Log] Testing Login Page 
+2015-10-29 11:11:23,394 INFO  [Log] Not SignIN 
+2015-10-29 11:11:23,486 INFO  [Log] Closing the Browser 
+2015-10-29 11:11:24,728 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-29 11:12:31,451 INFO  [Log] **************************************************************************************** 
+2015-10-29 11:12:31,452 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-29 11:12:31,452 INFO  [Log] **************************************************************************************** 
+2015-10-29 11:12:31,452 INFO  [Log] Loading config properties file 
+2015-10-29 11:12:31,452 INFO  [Log] New driver instantiated 
+2015-10-29 11:12:34,214 INFO  [Log] Launching Browser 
+2015-10-29 11:12:34,214 INFO  [Log] Opening URL 
+2015-10-29 11:14:46,401 INFO  [Log] Maximizing Browser 
+2015-10-29 11:14:46,555 INFO  [Log] Testing Login Page 
+2015-10-29 11:17:47,069 INFO  [Log] SignIN Login Page 
+2015-10-29 11:17:47,097 INFO  [Log] Testing Login Page 
+2015-10-29 11:18:04,150 INFO  [Log] Knowledgebase click 
+2015-10-29 11:18:04,151 INFO  [Log] Testing Login Page 
+2015-10-29 11:18:17,027 INFO  [Log] LearnLessonAgain click 
+2015-10-29 11:18:17,028 INFO  [Log] Testing Login Page 
+2015-10-29 11:18:39,850 INFO  [Log] LearnLessonAgain click 
+2015-10-29 11:18:39,881 INFO  [Log] Badges Page 
+2015-10-29 11:18:42,198 INFO  [Log] Badges click 
+2015-10-29 11:18:42,199 INFO  [Log] KbBadges Page 
+2015-10-29 11:18:48,733 INFO  [Log] KbBadges click 
+2015-10-29 11:18:48,734 INFO  [Log] QuizBadges Page 
+2015-10-29 11:18:55,230 INFO  [Log] QuizBadges click 
+2015-10-29 11:18:55,231 INFO  [Log] SonderBadges Page 
+2015-10-29 11:19:01,688 INFO  [Log] SonderBadges click 
+2015-10-29 11:19:01,688 INFO  [Log] VersteckteBadges Page 
+2015-10-29 11:19:03,811 INFO  [Log] VersteckteBadges not click 
+2015-10-29 11:19:03,866 INFO  [Log] Score Page 
+2015-10-29 11:19:13,928 INFO  [Log] Score not click 
+2015-10-29 11:19:13,933 INFO  [Log] Statistik  Page 
+2015-10-29 11:19:23,969 INFO  [Log] Statistik  not click 
+2015-10-29 11:19:23,972 INFO  [Log] Rangliste  Page 
+2015-10-29 11:19:34,014 INFO  [Log] Rangliste not click 
+2015-10-29 11:19:34,074 INFO  [Log] News Page 
+2015-10-29 11:19:44,095 INFO  [Log] News not click 
+2015-10-29 11:19:44,155 INFO  [Log] Settings Page 
+2015-10-29 11:19:54,195 INFO  [Log] Setting  not click 
+2015-10-29 11:19:54,198 INFO  [Log] Feedback  Page 
+2015-10-29 11:20:04,248 INFO  [Log] Feedback  not click 
+2015-10-29 11:20:04,252 INFO  [Log] Support   Page 
+2015-10-29 11:20:14,307 INFO  [Log] Rangliste not click 
+2015-10-29 11:20:24,367 INFO  [Log] Unable to logout 
+2015-10-29 11:20:24,419 INFO  [Log] Closing the Browser 
+2015-10-29 11:20:25,654 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-29 11:26:06,008 INFO  [Log] **************************************************************************************** 
+2015-10-29 11:26:06,008 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-29 11:26:06,008 INFO  [Log] **************************************************************************************** 
+2015-10-29 11:26:06,008 INFO  [Log] Loading config properties file 
+2015-10-29 11:26:06,008 INFO  [Log] New driver instantiated 
+2015-10-29 11:26:07,981 INFO  [Log] Launching Browser 
+2015-10-29 11:26:07,981 INFO  [Log] Opening URL 
+2015-10-29 11:28:14,593 INFO  [Log] Maximizing Browser 
+2015-10-29 11:28:14,775 INFO  [Log] Testing Login Page 
+2015-10-29 11:31:15,289 INFO  [Log] SignIN Login Page 
+2015-10-29 11:31:15,305 INFO  [Log] Testing Login Page 
+2015-10-29 11:31:32,302 INFO  [Log] Knowledgebase click 
+2015-10-29 11:31:32,303 INFO  [Log] Testing Login Page 
+2015-10-29 11:31:45,103 INFO  [Log] LearnLessonAgain click 
+2015-10-29 11:31:45,104 INFO  [Log] Testing Login Page 
+2015-10-29 11:32:14,809 INFO  [Log] LearnLessonAgain click 
+2015-10-29 11:32:14,818 INFO  [Log] Badges Page 
+2015-10-29 11:32:17,134 INFO  [Log] Badges click 
+2015-10-29 11:32:17,135 INFO  [Log] KbBadges Page 
+2015-10-29 11:32:23,615 INFO  [Log] KbBadges click 
+2015-10-29 11:32:23,616 INFO  [Log] QuizBadges Page 
+2015-10-29 11:32:30,135 INFO  [Log] QuizBadges click 
+2015-10-29 11:32:30,136 INFO  [Log] SonderBadges Page 
+2015-10-29 11:32:36,644 INFO  [Log] SonderBadges click 
+2015-10-29 11:32:36,645 INFO  [Log] VersteckteBadges Page 
+2015-10-29 11:32:43,120 INFO  [Log] VersteckteBadges click 
+2015-10-29 11:32:43,134 INFO  [Log] Score Page 
+2015-10-29 11:33:43,429 INFO  [Log] Score click 
+2015-10-29 11:33:43,430 INFO  [Log] Statistik  Page 
+2015-10-29 11:34:45,799 INFO  [Log] Statistik  click 
+2015-10-29 11:34:45,800 INFO  [Log] Rangliste  Page 
+2015-10-29 11:34:52,337 INFO  [Log] Rangliste click 
+2015-10-29 11:34:52,352 INFO  [Log] News Page 
+2015-10-29 11:34:57,741 INFO  [Log] News click 
+2015-10-29 11:34:57,749 INFO  [Log] Settings Page 
+2015-10-29 11:35:02,033 INFO  [Log] Setting click click 
+2015-10-29 11:35:02,034 INFO  [Log] Feedback  Page 
+2015-10-29 11:35:10,480 INFO  [Log] Feedback  click 
+2015-10-29 11:35:10,481 INFO  [Log] Support   Page 
+2015-10-29 11:35:23,017 INFO  [Log] Rangliste click 
+2015-10-29 11:35:29,429 INFO  [Log] logout Page 
+2015-10-29 11:35:29,436 INFO  [Log] Closing the Browser 
+2015-10-29 11:35:30,640 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-29 11:52:34,975 INFO  [Log] **************************************************************************************** 
+2015-10-29 11:52:34,975 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-10-29 11:52:34,975 INFO  [Log] **************************************************************************************** 
+2015-10-29 11:52:34,975 INFO  [Log] Loading config properties file 
+2015-10-29 11:52:34,975 INFO  [Log] New driver instantiated 
+2015-10-29 11:52:36,988 INFO  [Log] Launching Browser 
+2015-10-29 11:52:36,988 INFO  [Log] Opening URL 
+2015-10-29 11:54:26,265 INFO  [Log] Maximizing Browser 
+2015-10-29 11:54:26,441 INFO  [Log] Testing Login Page 
+2015-10-29 11:57:26,994 INFO  [Log] SignIN Login Page 
+2015-10-29 11:57:27,009 INFO  [Log] Testing Login Page 
+2015-10-29 11:57:44,067 INFO  [Log] Knowledgebase click 
+2015-10-29 11:57:44,068 INFO  [Log] Testing Login Page 
+2015-10-29 11:57:56,840 INFO  [Log] LearnLessonAgain click 
+2015-10-29 11:57:56,841 INFO  [Log] Testing Login Page 
+2015-10-29 11:58:23,361 INFO  [Log] LearnLessonAgain click 
+2015-10-29 11:58:23,369 INFO  [Log] Badges Page 
+2015-10-29 11:58:25,702 INFO  [Log] Badges click 
+2015-10-29 11:58:25,703 INFO  [Log] KbBadges Page 
+2015-10-29 11:58:32,256 INFO  [Log] KbBadges click 
+2015-10-29 11:58:32,257 INFO  [Log] QuizBadges Page 
+2015-10-29 11:58:38,790 INFO  [Log] QuizBadges click 
+2015-10-29 11:58:38,791 INFO  [Log] SonderBadges Page 
+2015-10-29 11:58:45,327 INFO  [Log] SonderBadges click 
+2015-10-29 11:58:45,328 INFO  [Log] VersteckteBadges Page 
+2015-10-29 11:58:47,450 INFO  [Log] VersteckteBadges not click 
+2015-10-29 11:58:47,476 INFO  [Log] Score Page 
+2015-10-29 11:58:57,533 INFO  [Log] Score not click 
+2015-10-29 11:58:57,539 INFO  [Log] Statistik  Page 
+2015-10-29 11:59:07,592 INFO  [Log] Statistik  not click 
+2015-10-29 11:59:07,595 INFO  [Log] Rangliste  Page 
+2015-10-29 11:59:17,661 INFO  [Log] Rangliste not click 
+2015-10-29 11:59:17,685 INFO  [Log] News Page 
+2015-10-29 11:59:27,702 INFO  [Log] News not click 
+2015-10-29 11:59:27,726 INFO  [Log] Settings Page 
+2015-10-29 11:59:37,761 INFO  [Log] Setting  not click 
+2015-10-29 11:59:37,764 INFO  [Log] Feedback  Page 
+2015-10-29 11:59:47,780 INFO  [Log] Feedback  not click 
+2015-10-29 11:59:47,784 INFO  [Log] Support   Page 
+2015-10-29 11:59:57,830 INFO  [Log] Rangliste not click 
+2015-10-29 12:00:07,920 INFO  [Log] Unable to logout 
+2015-10-29 12:00:07,944 INFO  [Log] Closing the Browser 
+2015-10-29 12:00:09,155 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-20 11:28:21,375 INFO  [Log] **************************************************************************************** 
+2016-12-20 11:28:21,375 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-20 11:28:21,375 INFO  [Log] **************************************************************************************** 
+2016-12-20 11:28:21,375 INFO  [Log] Loading config properties file 
+2016-12-20 11:28:21,375 INFO  [Log] New driver instantiated 
+2016-12-21 07:59:00,299 INFO  [Log] **************************************************************************************** 
+2016-12-21 07:59:00,300 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-21 07:59:00,300 INFO  [Log] **************************************************************************************** 
+2016-12-21 07:59:00,300 INFO  [Log] Loading config properties file 
+2016-12-21 07:59:00,300 INFO  [Log] New driver instantiated 
+2016-12-21 08:00:31,113 INFO  [Log] **************************************************************************************** 
+2016-12-21 08:00:31,114 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-21 08:00:31,114 INFO  [Log] **************************************************************************************** 
+2016-12-21 08:00:31,114 INFO  [Log] Loading config properties file 
+2016-12-21 08:00:31,114 INFO  [Log] New driver instantiated 
+2016-12-21 08:00:55,477 INFO  [Log] **************************************************************************************** 
+2016-12-21 08:00:55,478 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-21 08:00:55,478 INFO  [Log] **************************************************************************************** 
+2016-12-21 08:00:55,478 INFO  [Log] Loading config properties file 
+2016-12-21 08:00:55,478 INFO  [Log] New driver instantiated 
+2016-12-21 08:01:20,671 INFO  [Log] **************************************************************************************** 
+2016-12-21 08:01:20,672 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 RocheLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-21 08:01:20,672 INFO  [Log] **************************************************************************************** 
+2016-12-21 08:01:20,672 INFO  [Log] Loading config properties file 
+2016-12-21 08:01:20,672 INFO  [Log] New driver instantiated 

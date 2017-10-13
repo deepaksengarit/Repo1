@@ -1,0 +1,68 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Learning_Automation" verbose="1" >
+
+<!-- <test name="irctc" >
+ 
+    <classes>
+       <class name="Basic.irctc" />
+    </classes>
+  
+</test> -->
+<!-- <test name="dependency" >
+ 
+    <classes>
+       <class name="Basic.dependency" />
+    </classes>
+  
+</test> -->
+
+<!-- <test name="DataDriven" >
+    <classes>
+       <class name="DataDriven.FacebookLogin" />
+    </classes>
+ 
+
+</test>
+   -->
+<test name="firefox" >
+ 
+    <parameter name="browser" value="firefox"/>
+    <classes>
+       <class name="crossBrowser.VerifyTitle" />
+    </classes>
+  
+</test> 
+  
+    <test name="chrome" >
+ 
+    <parameter name="browser" value="chrome"/>
+    <classes>
+       <class name="crossBrowser.VerifyTitle" />
+    </classes>
+ </test>
+  
+<test name="ie" >
+ 
+    <parameter name="browser" value="ie"/>
+    <classes>
+       <class name="crossBrowser.VerifyTitle" />
+    </classes>
+</test> 
+  
+<!-- <test name="FileUpload" >
+
+    <classes>
+        <class name="FileUpload.FileUpload"></class>
+    </classes>
+
+</test>    
+  
+  <test name="UploadWithRobotClass">
+  <classes>
+  <class name="FileUpload.UploadWithRobot" />
+  
+  </classes>
+  
+  </test> -->
+ 
+   </suite>

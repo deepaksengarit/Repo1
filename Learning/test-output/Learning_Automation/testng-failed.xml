@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Learning_Automation]">
+  <test name="UploadWithRobotClass(failed)">
+    <classes>
+      <class name="FileUpload.UploadWithRobot">
+        <methods>
+          <include name="Fileupload"/>
+        </methods>
+      </class> <!-- FileUpload.UploadWithRobot -->
+    </classes>
+  </test> <!-- UploadWithRobotClass(failed) -->
+</suite> <!-- Failed suite [Learning_Automation] -->

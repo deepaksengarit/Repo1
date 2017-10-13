@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Learning_Automation]">
+  <test name="Irctc_Login(failed)">
+    <classes>
+      <class name="crossBrowser.VerifyTitle">
+        <methods>
+          <include name="verifypageTitle"/>
+        </methods>
+      </class> <!-- crossBrowser.VerifyTitle -->
+    </classes>
+  </test> <!-- Irctc_Login(failed) -->
+</suite> <!-- Failed suite [Learning_Automation] -->
